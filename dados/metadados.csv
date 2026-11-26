@@ -1,0 +1,1001 @@
+parte,classe,arquivo,chip,lin,col,pureza,classe_original
+treino,soja,soja_chip_261_412_128_000.png,chip_261_412,128,0,0.812,soja
+treino,soja,soja_chip_118_493_032_064.png,chip_118_493,32,64,0.712,soja
+treino,soja,soja_chip_187_482_192_192.png,chip_187_482,192,192,0.834,soja
+treino,soja,soja_chip_124_303_064_064.png,chip_124_303,64,64,0.912,soja
+treino,soja,soja_chip_288_426_000_096.png,chip_288_426,0,96,0.716,soja
+treino,soja,soja_chip_199_425_192_000.png,chip_199_425,192,0,0.742,soja
+treino,soja,soja_chip_228_466_000_000.png,chip_228_466,0,0,0.935,soja
+treino,soja,soja_chip_144_335_128_064.png,chip_144_335,128,64,0.726,soja
+treino,soja,soja_chip_221_439_192_032.png,chip_221_439,192,32,0.75,soja
+treino,soja,soja_chip_201_433_032_064.png,chip_201_433,32,64,0.714,soja
+treino,soja,soja_chip_195_410_032_064.png,chip_195_410,32,64,0.726,soja
+treino,soja,soja_chip_193_366_192_192.png,chip_193_366,192,192,0.76,soja
+treino,soja,soja_chip_351_399_000_064.png,chip_351_399,0,64,0.812,soja
+treino,soja,soja_chip_295_409_128_160.png,chip_295_409,128,160,0.777,soja
+treino,soja,soja_chip_213_416_160_128.png,chip_213_416,160,128,0.725,soja
+treino,soja,soja_chip_143_485_192_160.png,chip_143_485,192,160,0.815,soja
+treino,soja,soja_chip_156_402_160_032.png,chip_156_402,160,32,0.722,soja
+treino,soja,soja_chip_141_401_064_192.png,chip_141_401,64,192,0.832,soja
+treino,soja,soja_chip_098_338_096_192.png,chip_098_338,96,192,0.802,soja
+treino,soja,soja_chip_147_496_192_160.png,chip_147_496,192,160,0.735,soja
+treino,soja,soja_chip_191_473_064_192.png,chip_191_473,64,192,0.705,soja
+treino,soja,soja_chip_274_466_128_032.png,chip_274_466,128,32,0.756,soja
+treino,soja,soja_chip_193_366_160_000.png,chip_193_366,160,0,0.762,soja
+treino,soja,soja_chip_211_410_032_000.png,chip_211_410,32,0,0.798,soja
+treino,soja,soja_chip_221_438_000_096.png,chip_221_438,0,96,0.894,soja
+treino,soja,soja_chip_232_322_160_096.png,chip_232_322,160,96,0.744,soja
+treino,soja,soja_chip_171_413_096_128.png,chip_171_413,96,128,0.88,soja
+treino,soja,soja_chip_159_417_096_032.png,chip_159_417,96,32,0.711,soja
+treino,soja,soja_chip_077_300_000_096.png,chip_077_300,0,96,0.731,soja
+treino,soja,soja_chip_197_368_096_032.png,chip_197_368,96,32,0.746,soja
+treino,soja,soja_chip_158_522_128_000.png,chip_158_522,128,0,0.825,soja
+treino,soja,soja_chip_124_303_096_064.png,chip_124_303,96,64,0.808,soja
+treino,soja,soja_chip_195_410_160_192.png,chip_195_410,160,192,0.752,soja
+treino,soja,soja_chip_133_360_000_064.png,chip_133_360,0,64,0.773,soja
+treino,soja,soja_chip_164_444_032_128.png,chip_164_444,32,128,0.938,soja
+treino,soja,soja_chip_142_434_064_032.png,chip_142_434,64,32,0.831,soja
+treino,soja,soja_chip_159_420_096_064.png,chip_159_420,96,64,0.729,soja
+treino,soja,soja_chip_261_443_128_032.png,chip_261_443,128,32,0.719,soja
+treino,soja,soja_chip_215_454_128_160.png,chip_215_454,128,160,0.746,soja
+treino,soja,soja_chip_146_481_096_032.png,chip_146_481,96,32,0.85,soja
+treino,soja,soja_chip_208_361_032_000.png,chip_208_361,32,0,0.75,soja
+treino,soja,soja_chip_065_352_160_128.png,chip_065_352,160,128,0.833,soja
+treino,soja,soja_chip_199_425_160_000.png,chip_199_425,160,0,0.843,soja
+treino,soja,soja_chip_126_305_096_064.png,chip_126_305,96,64,0.99,soja
+treino,soja,soja_chip_098_338_096_160.png,chip_098_338,96,160,0.769,soja
+treino,soja,soja_chip_140_482_096_000.png,chip_140_482,96,0,0.708,soja
+treino,soja,soja_chip_183_514_160_128.png,chip_183_514,160,128,0.869,soja
+treino,soja,soja_chip_197_368_064_160.png,chip_197_368,64,160,0.818,soja
+treino,soja,soja_chip_223_438_192_032.png,chip_223_438,192,32,0.857,soja
+treino,soja,soja_chip_237_441_000_064.png,chip_237_441,0,64,0.702,soja
+treino,soja,soja_chip_194_485_192_064.png,chip_194_485,192,64,0.812,soja
+treino,soja,soja_chip_218_314_128_160.png,chip_218_314,128,160,0.731,soja
+treino,soja,soja_chip_191_473_064_160.png,chip_191_473,64,160,0.779,soja
+treino,soja,soja_chip_068_347_000_160.png,chip_068_347,0,160,0.817,soja
+treino,soja,soja_chip_098_338_128_192.png,chip_098_338,128,192,0.8,soja
+treino,soja,soja_chip_152_477_192_192.png,chip_152_477,192,192,0.771,soja
+treino,soja,soja_chip_133_360_192_192.png,chip_133_360,192,192,0.701,soja
+treino,soja,soja_chip_183_514_128_128.png,chip_183_514,128,128,0.744,soja
+treino,soja,soja_chip_248_444_064_128.png,chip_248_444,64,128,0.761,soja
+treino,soja,soja_chip_154_351_000_160.png,chip_154_351,0,160,0.791,soja
+treino,soja,soja_chip_170_402_096_000.png,chip_170_402,96,0,0.765,soja
+treino,soja,soja_chip_288_426_032_000.png,chip_288_426,32,0,0.992,soja
+treino,soja,soja_chip_200_318_064_160.png,chip_200_318,64,160,0.86,soja
+treino,soja,soja_chip_159_420_128_032.png,chip_159_420,128,32,0.838,soja
+treino,soja,soja_chip_186_511_064_160.png,chip_186_511,64,160,0.887,soja
+treino,soja,soja_chip_159_407_000_192.png,chip_159_407,0,192,0.742,soja
+treino,soja,soja_chip_228_466_096_032.png,chip_228_466,96,32,0.756,soja
+treino,soja,soja_chip_191_510_160_160.png,chip_191_510,160,160,0.758,soja
+treino,soja,soja_chip_289_444_000_064.png,chip_289_444,0,64,0.777,soja
+treino,soja,soja_chip_215_454_192_128.png,chip_215_454,192,128,0.819,soja
+treino,soja,soja_chip_141_401_160_000.png,chip_141_401,160,0,0.777,soja
+treino,soja,soja_chip_134_320_128_160.png,chip_134_320,128,160,0.746,soja
+treino,soja,soja_chip_102_327_096_064.png,chip_102_327,96,64,0.747,soja
+treino,soja,soja_chip_126_305_096_096.png,chip_126_305,96,96,0.763,soja
+treino,soja,soja_chip_155_468_160_000.png,chip_155_468,160,0,0.743,soja
+treino,soja,soja_chip_094_337_000_128.png,chip_094_337,0,128,0.738,soja
+treino,soja,soja_chip_170_402_192_000.png,chip_170_402,192,0,0.754,soja
+treino,soja,soja_chip_282_404_160_032.png,chip_282_404,160,32,0.701,soja
+treino,soja,soja_chip_203_308_160_064.png,chip_203_308,160,64,0.776,soja
+treino,soja,soja_chip_237_434_064_128.png,chip_237_434,64,128,0.87,soja
+treino,soja,soja_chip_201_433_064_064.png,chip_201_433,64,64,0.837,soja
+treino,soja,soja_chip_211_410_128_128.png,chip_211_410,128,128,0.724,soja
+treino,soja,soja_chip_100_326_192_064.png,chip_100_326,192,64,0.709,soja
+treino,soja,soja_chip_101_332_096_064.png,chip_101_332,96,64,0.715,soja
+treino,soja,soja_chip_207_423_096_064.png,chip_207_423,96,64,0.726,soja
+treino,soja,soja_chip_225_335_000_064.png,chip_225_335,0,64,0.743,soja
+treino,soja,soja_chip_108_333_032_000.png,chip_108_333,32,0,0.868,soja
+treino,soja,soja_chip_165_404_064_064.png,chip_165_404,64,64,0.701,soja
+treino,soja,soja_chip_211_410_064_064.png,chip_211_410,64,64,0.776,soja
+treino,soja,soja_chip_195_410_000_128.png,chip_195_410,0,128,0.774,soja
+treino,soja,soja_chip_142_434_128_192.png,chip_142_434,128,192,0.759,soja
+treino,soja,soja_chip_153_476_096_096.png,chip_153_476,96,96,0.826,soja
+treino,soja,soja_chip_108_333_064_000.png,chip_108_333,64,0,0.791,soja
+treino,soja,soja_chip_080_345_128_096.png,chip_080_345,128,96,0.7,soja
+treino,soja,soja_chip_185_410_096_128.png,chip_185_410,96,128,0.717,soja
+treino,soja,soja_chip_288_426_032_064.png,chip_288_426,32,64,0.744,soja
+treino,soja,soja_chip_108_333_160_000.png,chip_108_333,160,0,0.814,soja
+treino,soja,soja_chip_102_327_064_192.png,chip_102_327,64,192,0.729,soja
+treino,soja,soja_chip_228_466_128_128.png,chip_228_466,128,128,0.837,soja
+treino,soja,soja_chip_262_413_160_000.png,chip_262_413,160,0,0.712,soja
+treino,soja,soja_chip_117_323_032_128.png,chip_117_323,32,128,0.828,soja
+treino,soja,soja_chip_065_352_032_192.png,chip_065_352,32,192,0.727,soja
+treino,soja,soja_chip_201_445_128_160.png,chip_201_445,128,160,0.728,soja
+treino,soja,soja_chip_228_466_128_096.png,chip_228_466,128,96,0.785,soja
+treino,soja,soja_chip_094_358_160_032.png,chip_094_358,160,32,0.796,soja
+treino,soja,soja_chip_351_399_096_096.png,chip_351_399,96,96,0.8,soja
+treino,soja,soja_chip_068_347_000_192.png,chip_068_347,0,192,0.928,soja
+treino,soja,soja_chip_068_347_032_192.png,chip_068_347,32,192,0.854,soja
+treino,soja,soja_chip_224_429_064_192.png,chip_224_429,64,192,0.709,soja
+treino,soja,soja_chip_185_410_064_032.png,chip_185_410,64,32,0.822,soja
+treino,soja,soja_chip_160_479_000_064.png,chip_160_479,0,64,0.79,soja
+treino,soja,soja_chip_191_331_032_032.png,chip_191_331,32,32,0.719,soja
+treino,soja,soja_chip_155_468_192_000.png,chip_155_468,192,0,0.806,soja
+treino,soja,soja_chip_208_361_128_000.png,chip_208_361,128,0,0.712,soja
+treino,soja,soja_chip_081_333_128_032.png,chip_081_333,128,32,0.797,soja
+treino,soja,soja_chip_182_497_000_128.png,chip_182_497,0,128,0.812,soja
+treino,soja,soja_chip_151_470_128_128.png,chip_151_470,128,128,0.702,soja
+treino,soja,soja_chip_186_511_096_192.png,chip_186_511,96,192,0.856,soja
+treino,soja,soja_chip_136_486_192_096.png,chip_136_486,192,96,0.732,soja
+treino,soja,soja_chip_200_318_032_096.png,chip_200_318,32,96,0.705,soja
+treino,soja,soja_chip_239_356_000_160.png,chip_239_356,0,160,0.881,soja
+treino,soja,soja_chip_124_303_000_064.png,chip_124_303,0,64,0.709,soja
+treino,soja,soja_chip_194_345_064_160.png,chip_194_345,64,160,0.846,soja
+treino,soja,soja_chip_193_366_128_032.png,chip_193_366,128,32,0.839,soja
+treino,soja,soja_chip_102_345_000_128.png,chip_102_345,0,128,0.721,soja
+treino,soja,soja_chip_275_408_064_064.png,chip_275_408,64,64,0.854,soja
+treino,soja,soja_chip_086_360_096_000.png,chip_086_360,96,0,0.721,soja
+treino,soja,soja_chip_077_300_032_000.png,chip_077_300,32,0,0.806,soja
+treino,soja,soja_chip_127_491_032_096.png,chip_127_491,32,96,0.749,soja
+treino,soja,soja_chip_288_426_160_160.png,chip_288_426,160,160,0.846,soja
+treino,soja,soja_chip_077_300_096_064.png,chip_077_300,96,64,0.876,soja
+treino,soja,soja_chip_223_438_160_032.png,chip_223_438,160,32,0.788,soja
+treino,soja,soja_chip_097_358_128_096.png,chip_097_358,128,96,0.763,soja
+treino,soja,soja_chip_295_409_096_096.png,chip_295_409,96,96,0.717,soja
+treino,soja,soja_chip_183_378_160_000.png,chip_183_378,160,0,0.765,soja
+treino,soja,soja_chip_077_300_160_064.png,chip_077_300,160,64,0.759,soja
+treino,soja,soja_chip_102_327_128_064.png,chip_102_327,128,64,0.821,soja
+treino,soja,soja_chip_233_293_128_064.png,chip_233_293,128,64,0.763,soja
+treino,soja,soja_chip_127_491_160_032.png,chip_127_491,160,32,0.705,soja
+treino,soja,soja_chip_288_426_032_032.png,chip_288_426,32,32,0.737,soja
+treino,soja,soja_chip_151_470_032_128.png,chip_151_470,32,128,0.745,soja
+treino,soja,soja_chip_126_491_192_064.png,chip_126_491,192,64,0.855,soja
+treino,soja,soja_chip_351_399_000_096.png,chip_351_399,0,96,0.965,soja
+treino,soja,soja_chip_191_331_032_160.png,chip_191_331,32,160,0.707,soja
+treino,soja,soja_chip_197_450_192_064.png,chip_197_450,192,64,0.772,soja
+treino,soja,soja_chip_102_345_064_096.png,chip_102_345,64,96,0.739,soja
+treino,soja,soja_chip_186_511_032_160.png,chip_186_511,32,160,0.985,soja
+treino,soja,soja_chip_102_327_064_160.png,chip_102_327,64,160,0.716,soja
+treino,soja,soja_chip_228_466_096_064.png,chip_228_466,96,64,0.777,soja
+treino,soja,soja_chip_171_413_128_128.png,chip_171_413,128,128,0.908,soja
+treino,milho,milho_chip_232_294_096_160.png,chip_232_294,96,160,0.767,milho
+treino,milho,milho_chip_194_264_128_064.png,chip_194_264,128,64,0.777,milho
+treino,milho,milho_chip_220_286_000_000.png,chip_220_286,0,0,0.828,milho
+treino,milho,milho_chip_182_612_064_160.png,chip_182_612,64,160,0.948,milho
+treino,milho,milho_chip_239_459_096_192.png,chip_239_459,96,192,0.716,milho
+treino,milho,milho_chip_250_272_032_192.png,chip_250_272,32,192,0.769,milho
+treino,milho,milho_chip_237_364_096_096.png,chip_237_364,96,96,0.72,milho
+treino,milho,milho_chip_225_335_160_192.png,chip_225_335,160,192,0.768,milho
+treino,milho,milho_chip_121_436_096_000.png,chip_121_436,96,0,0.715,milho
+treino,milho,milho_chip_329_511_192_032.png,chip_329_511,192,32,0.716,milho
+treino,milho,milho_chip_096_341_096_032.png,chip_096_341,96,32,0.832,milho
+treino,milho,milho_chip_224_334_192_064.png,chip_224_334,192,64,0.813,milho
+treino,milho,milho_chip_197_450_096_064.png,chip_197_450,96,64,0.728,milho
+treino,milho,milho_chip_358_323_192_128.png,chip_358_323,192,128,0.725,milho
+treino,milho,milho_chip_179_610_192_096.png,chip_179_610,192,96,0.915,milho
+treino,milho,milho_chip_088_362_192_096.png,chip_088_362,192,96,0.805,milho
+treino,milho,milho_chip_125_482_000_096.png,chip_125_482,0,96,0.831,milho
+treino,milho,milho_chip_170_402_160_128.png,chip_170_402,160,128,0.764,milho
+treino,milho,milho_chip_288_426_160_128.png,chip_288_426,160,128,0.706,milho
+treino,milho,milho_chip_315_514_192_000.png,chip_315_514,192,0,0.718,milho
+treino,milho,milho_chip_081_333_096_000.png,chip_081_333,96,0,0.836,milho
+treino,milho,milho_chip_182_497_032_160.png,chip_182_497,32,160,0.711,milho
+treino,milho,milho_chip_300_453_000_160.png,chip_300_453,0,160,0.816,milho
+treino,milho,milho_chip_373_344_064_128.png,chip_373_344,64,128,0.91,milho
+treino,milho,milho_chip_153_405_160_000.png,chip_153_405,160,0,0.805,milho
+treino,milho,milho_chip_232_294_096_192.png,chip_232_294,96,192,0.762,milho
+treino,milho,milho_chip_242_280_032_032.png,chip_242_280,32,32,0.737,milho
+treino,milho,milho_chip_227_283_096_000.png,chip_227_283,96,0,0.766,milho
+treino,milho,milho_chip_183_514_064_032.png,chip_183_514,64,32,0.722,milho
+treino,milho,milho_chip_153_467_128_000.png,chip_153_467,128,0,0.896,milho
+treino,milho,milho_chip_315_514_160_032.png,chip_315_514,160,32,0.921,milho
+treino,milho,milho_chip_225_335_160_032.png,chip_225_335,160,32,0.73,milho
+treino,milho,milho_chip_236_336_096_032.png,chip_236_336,96,32,0.727,milho
+treino,milho,milho_chip_370_344_000_192.png,chip_370_344,0,192,0.723,milho
+treino,milho,milho_chip_319_340_128_128.png,chip_319_340,128,128,0.752,milho
+treino,milho,milho_chip_199_425_064_032.png,chip_199_425,64,32,0.755,milho
+treino,milho,milho_chip_220_286_032_032.png,chip_220_286,32,32,0.709,milho
+treino,milho,milho_chip_199_283_064_000.png,chip_199_283,64,0,0.784,milho
+treino,milho,milho_chip_197_368_128_000.png,chip_197_368,128,0,0.775,milho
+treino,milho,milho_chip_130_473_192_096.png,chip_130_473,192,96,0.801,milho
+treino,milho,milho_chip_151_470_064_032.png,chip_151_470,64,32,0.727,milho
+treino,milho,milho_chip_199_283_000_000.png,chip_199_283,0,0,0.884,milho
+treino,milho,milho_chip_220_308_032_096.png,chip_220_308,32,96,0.857,milho
+treino,milho,milho_chip_237_434_192_160.png,chip_237_434,192,160,0.843,milho
+treino,milho,milho_chip_186_348_160_192.png,chip_186_348,160,192,0.848,milho
+treino,milho,milho_chip_215_467_000_000.png,chip_215_467,0,0,0.733,milho
+treino,milho,milho_chip_253_447_000_160.png,chip_253_447,0,160,0.705,milho
+treino,milho,milho_chip_094_358_192_160.png,chip_094_358,192,160,0.93,milho
+treino,milho,milho_chip_231_274_096_064.png,chip_231_274,96,64,0.759,milho
+treino,milho,milho_chip_125_482_000_064.png,chip_125_482,0,64,0.847,milho
+treino,milho,milho_chip_195_410_032_096.png,chip_195_410,32,96,0.737,milho
+treino,milho,milho_chip_180_241_128_192.png,chip_180_241,128,192,0.721,milho
+treino,milho,milho_chip_373_344_000_192.png,chip_373_344,0,192,0.715,milho
+treino,milho,milho_chip_134_320_128_128.png,chip_134_320,128,128,0.729,milho
+treino,milho,milho_chip_376_348_032_128.png,chip_376_348,32,128,0.817,milho
+treino,milho,milho_chip_242_280_000_032.png,chip_242_280,0,32,0.712,milho
+treino,milho,milho_chip_068_347_096_128.png,chip_068_347,96,128,0.785,milho
+treino,milho,milho_chip_232_269_064_128.png,chip_232_269,64,128,0.721,milho
+treino,milho,milho_chip_221_307_000_032.png,chip_221_307,0,32,0.773,milho
+treino,milho,milho_chip_100_355_096_128.png,chip_100_355,96,128,0.759,milho
+treino,milho,milho_chip_154_253_160_128.png,chip_154_253,160,128,0.726,milho
+treino,milho,milho_chip_319_340_032_096.png,chip_319_340,32,96,0.96,milho
+treino,milho,milho_chip_205_288_160_064.png,chip_205_288,160,64,0.873,milho
+treino,milho,milho_chip_239_443_032_192.png,chip_239_443,32,192,0.763,milho
+treino,milho,milho_chip_317_344_064_064.png,chip_317_344,64,64,0.935,milho
+treino,milho,milho_chip_100_330_000_000.png,chip_100_330,0,0,0.72,milho
+treino,milho,milho_chip_155_468_192_192.png,chip_155_468,192,192,0.736,milho
+treino,milho,milho_chip_182_240_032_032.png,chip_182_240,32,32,0.881,milho
+treino,milho,milho_chip_140_494_160_160.png,chip_140_494,160,160,0.72,milho
+treino,milho,milho_chip_256_267_192_192.png,chip_256_267,192,192,0.786,milho
+treino,milho,milho_chip_373_344_160_192.png,chip_373_344,160,192,0.707,milho
+treino,milho,milho_chip_236_336_032_160.png,chip_236_336,32,160,0.745,milho
+treino,milho,milho_chip_136_486_160_160.png,chip_136_486,160,160,0.84,milho
+treino,milho,milho_chip_089_589_096_000.png,chip_089_589,96,0,0.712,milho
+treino,milho,milho_chip_171_413_160_192.png,chip_171_413,160,192,0.914,milho
+treino,milho,milho_chip_201_433_128_096.png,chip_201_433,128,96,0.726,milho
+treino,milho,milho_chip_121_436_064_032.png,chip_121_436,64,32,0.866,milho
+treino,milho,milho_chip_149_263_192_192.png,chip_149_263,192,192,0.72,milho
+treino,milho,milho_chip_183_481_064_128.png,chip_183_481,64,128,0.803,milho
+treino,milho,milho_chip_080_345_064_032.png,chip_080_345,64,32,0.75,milho
+treino,milho,milho_chip_300_453_096_128.png,chip_300_453,96,128,0.74,milho
+treino,milho,milho_chip_250_272_032_128.png,chip_250_272,32,128,0.969,milho
+treino,milho,milho_chip_100_326_000_064.png,chip_100_326,0,64,0.918,milho
+treino,milho,milho_chip_131_438_064_064.png,chip_131_438,64,64,0.771,milho
+treino,milho,milho_chip_221_328_096_032.png,chip_221_328,96,32,0.821,milho
+treino,milho,milho_chip_231_274_128_192.png,chip_231_274,128,192,0.734,milho
+treino,milho,milho_chip_102_327_096_128.png,chip_102_327,96,128,0.895,milho
+treino,milho,milho_chip_171_413_000_192.png,chip_171_413,0,192,0.764,milho
+treino,milho,milho_chip_102_327_128_128.png,chip_102_327,128,128,0.732,milho
+treino,milho,milho_chip_253_272_128_096.png,chip_253_272,128,96,0.81,milho
+treino,milho,milho_chip_221_307_032_192.png,chip_221_307,32,192,0.836,milho
+treino,milho,milho_chip_121_436_064_000.png,chip_121_436,64,0,0.749,milho
+treino,milho,milho_chip_179_610_128_096.png,chip_179_610,128,96,0.746,milho
+treino,milho,milho_chip_205_288_128_032.png,chip_205_288,128,32,0.848,milho
+treino,milho,milho_chip_143_485_160_096.png,chip_143_485,160,96,0.756,milho
+treino,milho,milho_chip_180_241_160_128.png,chip_180_241,160,128,0.812,milho
+treino,milho,milho_chip_201_433_000_096.png,chip_201_433,0,96,0.734,milho
+treino,milho,milho_chip_141_482_160_000.png,chip_141_482,160,0,0.757,milho
+treino,milho,milho_chip_156_402_128_000.png,chip_156_402,128,0,1.0,milho
+treino,milho,milho_chip_376_348_064_096.png,chip_376_348,64,96,0.745,milho
+treino,milho,milho_chip_171_413_192_096.png,chip_171_413,192,96,0.854,milho
+treino,milho,milho_chip_171_413_032_192.png,chip_171_413,32,192,0.897,milho
+treino,milho,milho_chip_239_459_128_000.png,chip_239_459,128,0,0.746,milho
+treino,milho,milho_chip_169_433_128_192.png,chip_169_433,128,192,0.712,milho
+treino,milho,milho_chip_236_336_032_192.png,chip_236_336,32,192,0.708,milho
+treino,milho,milho_chip_115_446_064_032.png,chip_115_446,64,32,0.812,milho
+treino,milho,milho_chip_154_351_032_128.png,chip_154_351,32,128,0.755,milho
+treino,milho,milho_chip_126_396_064_192.png,chip_126_396,64,192,0.855,milho
+treino,milho,milho_chip_191_331_160_160.png,chip_191_331,160,160,0.79,milho
+treino,milho,milho_chip_232_269_032_160.png,chip_232_269,32,160,0.744,milho
+treino,milho,milho_chip_209_433_160_096.png,chip_209_433,160,96,0.724,milho
+treino,milho,milho_chip_102_345_192_128.png,chip_102_345,192,128,0.75,milho
+treino,milho,milho_chip_094_358_160_160.png,chip_094_358,160,160,0.717,milho
+treino,milho,milho_chip_142_433_160_064.png,chip_142_433,160,64,0.791,milho
+treino,milho,milho_chip_213_293_032_032.png,chip_213_293,32,32,0.706,milho
+treino,milho,milho_chip_213_416_096_096.png,chip_213_416,96,96,0.809,milho
+treino,milho,milho_chip_231_274_096_032.png,chip_231_274,96,32,0.72,milho
+treino,milho,milho_chip_151_487_096_000.png,chip_151_487,96,0,0.769,milho
+treino,milho,milho_chip_213_293_192_128.png,chip_213_293,192,128,0.714,milho
+treino,milho,milho_chip_253_285_096_096.png,chip_253_285,96,96,0.709,milho
+treino,milho,milho_chip_141_401_032_064.png,chip_141_401,32,64,0.822,milho
+treino,milho,milho_chip_250_258_096_160.png,chip_250_258,96,160,0.729,milho
+treino,milho,milho_chip_142_433_192_064.png,chip_142_433,192,64,0.783,milho
+treino,milho,milho_chip_248_444_128_096.png,chip_248_444,128,96,0.748,milho
+treino,milho,milho_chip_145_489_128_032.png,chip_145_489,128,32,0.933,milho
+treino,milho,milho_chip_186_511_192_000.png,chip_186_511,192,0,0.806,milho
+treino,milho,milho_chip_186_511_000_096.png,chip_186_511,0,96,0.999,milho
+treino,milho,milho_chip_274_466_000_192.png,chip_274_466,0,192,0.909,milho
+treino,milho,milho_chip_177_339_064_192.png,chip_177_339,64,192,0.752,milho
+treino,milho,milho_chip_120_502_128_160.png,chip_120_502,128,160,0.722,milho
+treino,milho,milho_chip_168_274_128_160.png,chip_168_274,128,160,0.818,milho
+treino,milho,milho_chip_358_323_064_192.png,chip_358_323,64,192,0.713,milho
+treino,milho,milho_chip_228_466_160_000.png,chip_228_466,160,0,0.896,milho
+treino,milho,milho_chip_153_405_000_128.png,chip_153_405,0,128,0.826,milho
+treino,milho,milho_chip_151_487_000_032.png,chip_151_487,0,32,0.834,milho
+treino,milho,milho_chip_227_277_160_032.png,chip_227_277,160,32,0.777,milho
+treino,milho,milho_chip_376_348_032_096.png,chip_376_348,32,96,0.732,milho
+treino,milho,milho_chip_248_444_192_032.png,chip_248_444,192,32,0.899,milho
+treino,milho,milho_chip_248_444_160_096.png,chip_248_444,160,96,0.732,milho
+treino,milho,milho_chip_274_466_032_192.png,chip_274_466,32,192,0.711,milho
+treino,milho,milho_chip_224_429_096_160.png,chip_224_429,96,160,0.791,milho
+treino,milho,milho_chip_369_349_064_000.png,chip_369_349,64,0,0.803,milho
+treino,milho,milho_chip_136_486_160_128.png,chip_136_486,160,128,0.921,milho
+treino,milho,milho_chip_186_348_128_192.png,chip_186_348,128,192,0.849,milho
+treino,milho,milho_chip_300_453_096_160.png,chip_300_453,96,160,0.844,milho
+treino,milho,milho_chip_376_348_000_192.png,chip_376_348,0,192,0.701,milho
+treino,milho,milho_chip_156_332_000_032.png,chip_156_332,0,32,0.847,milho
+treino,milho,milho_chip_081_333_096_032.png,chip_081_333,96,32,0.727,milho
+treino,milho,milho_chip_150_486_160_128.png,chip_150_486,160,128,0.711,milho
+treino,milho,milho_chip_171_413_096_192.png,chip_171_413,96,192,0.852,milho
+treino,outras,outras_chip_061_190_192_064.png,chip_061_190,192,64,0.926,alfafa
+treino,outras,outras_chip_284_307_032_128.png,chip_284_307,32,128,0.81,algodao
+treino,outras,outras_chip_061_190_096_192.png,chip_061_190,96,192,0.705,outras culturas
+treino,outras,outras_chip_220_286_032_096.png,chip_220_286,32,96,0.802,sorgo
+treino,outras,outras_chip_121_499_128_192.png,chip_121_499,128,192,0.763,trigo de inverno
+treino,outras,outras_chip_181_023_192_096.png,chip_181_023,192,96,0.777,alfafa
+treino,outras,outras_chip_376_348_192_032.png,chip_376_348,192,32,0.928,algodao
+treino,outras,outras_chip_320_519_192_192.png,chip_320_519,192,192,0.757,outras culturas
+treino,outras,outras_chip_257_271_128_160.png,chip_257_271,128,160,0.869,sorgo
+treino,outras,outras_chip_252_256_064_000.png,chip_252_256,64,0,0.728,trigo de inverno
+treino,outras,outras_chip_125_482_096_192.png,chip_125_482,96,192,0.754,alfafa
+treino,outras,outras_chip_253_285_032_192.png,chip_253_285,32,192,0.894,algodao
+treino,outras,outras_chip_101_103_032_064.png,chip_101_103,32,64,0.89,outras culturas
+treino,outras,outras_chip_270_263_192_192.png,chip_270_263,192,192,0.994,sorgo
+treino,outras,outras_chip_281_252_032_000.png,chip_281_252,32,0,0.729,trigo de inverno
+treino,outras,outras_chip_110_041_064_160.png,chip_110_041,64,160,0.786,alfafa
+treino,outras,outras_chip_304_299_064_160.png,chip_304_299,64,160,0.887,algodao
+treino,outras,outras_chip_237_592_160_160.png,chip_237_592,160,160,0.82,outras culturas
+treino,outras,outras_chip_269_263_192_000.png,chip_269_263,192,0,0.912,sorgo
+treino,outras,outras_chip_063_084_160_000.png,chip_063_084,160,0,0.916,trigo de inverno
+treino,outras,outras_chip_181_023_000_128.png,chip_181_023,0,128,0.821,alfafa
+treino,outras,outras_chip_331_527_160_128.png,chip_331_527,160,128,0.852,algodao
+treino,outras,outras_chip_034_147_160_000.png,chip_034_147,160,0,0.741,outras culturas
+treino,outras,outras_chip_221_307_128_000.png,chip_221_307,128,0,0.751,sorgo
+treino,outras,outras_chip_220_309_032_128.png,chip_220_309,32,128,0.739,trigo de inverno
+treino,outras,outras_chip_181_023_032_128.png,chip_181_023,32,128,0.967,alfafa
+treino,outras,outras_chip_281_560_160_160.png,chip_281_560,160,160,0.791,algodao
+treino,outras,outras_chip_284_307_160_192.png,chip_284_307,160,192,0.715,outras culturas
+treino,outras,outras_chip_220_286_064_128.png,chip_220_286,64,128,0.826,sorgo
+treino,outras,outras_chip_243_270_192_064.png,chip_243_270,192,64,0.967,trigo de inverno
+treino,outras,outras_chip_110_041_032_128.png,chip_110_041,32,128,0.892,alfafa
+treino,outras,outras_chip_392_325_128_064.png,chip_392_325,128,64,0.784,algodao
+treino,outras,outras_chip_270_263_128_160.png,chip_270_263,128,160,0.87,outras culturas
+treino,outras,outras_chip_243_270_032_192.png,chip_243_270,32,192,0.967,sorgo
+treino,outras,outras_chip_228_323_064_096.png,chip_228_323,64,96,0.775,trigo de inverno
+treino,outras,outras_chip_221_307_160_032.png,chip_221_307,160,32,0.841,alfafa
+treino,outras,outras_chip_391_323_192_128.png,chip_391_323,192,128,0.732,algodao
+treino,outras,outras_chip_126_305_096_032.png,chip_126_305,96,32,0.727,outras culturas
+treino,outras,outras_chip_250_272_096_160.png,chip_250_272,96,160,0.95,sorgo
+treino,outras,outras_chip_256_276_160_160.png,chip_256_276,160,160,0.797,trigo de inverno
+treino,outras,outras_chip_239_269_032_160.png,chip_239_269,32,160,0.783,alfafa
+treino,outras,outras_chip_369_348_192_160.png,chip_369_348,192,160,0.77,algodao
+treino,outras,outras_chip_284_307_064_096.png,chip_284_307,64,96,0.975,outras culturas
+treino,outras,outras_chip_126_305_064_032.png,chip_126_305,64,32,0.749,sorgo
+treino,outras,outras_chip_221_328_064_096.png,chip_221_328,64,96,0.852,trigo de inverno
+treino,outras,outras_chip_181_238_096_192.png,chip_181_238,96,192,0.749,alfafa
+treino,outras,outras_chip_236_332_032_000.png,chip_236_332,32,0,0.795,algodao
+treino,outras,outras_chip_097_358_000_000.png,chip_097_358,0,0,0.948,outras culturas
+treino,outras,outras_chip_218_327_160_000.png,chip_218_327,160,0,0.852,sorgo
+treino,outras,outras_chip_121_499_128_160.png,chip_121_499,128,160,0.7,trigo de inverno
+treino,outras,outras_chip_181_238_064_096.png,chip_181_238,64,96,0.705,alfafa
+treino,outras,outras_chip_347_343_192_064.png,chip_347_343,192,64,0.724,algodao
+treino,outras,outras_chip_314_518_096_192.png,chip_314_518,96,192,0.815,outras culturas
+treino,outras,outras_chip_252_256_096_128.png,chip_252_256,96,128,0.767,sorgo
+treino,outras,outras_chip_269_263_032_192.png,chip_269_263,32,192,0.879,trigo de inverno
+treino,outras,outras_chip_181_023_192_064.png,chip_181_023,192,64,0.856,alfafa
+treino,outras,outras_chip_319_340_160_032.png,chip_319_340,160,32,0.756,algodao
+treino,outras,outras_chip_052_247_160_000.png,chip_052_247,160,0,0.771,outras culturas
+treino,outras,outras_chip_220_308_192_096.png,chip_220_308,192,96,0.774,sorgo
+treino,outras,outras_chip_274_466_192_096.png,chip_274_466,192,96,0.759,trigo de inverno
+treino,outras,outras_chip_095_218_096_000.png,chip_095_218,96,0,0.953,alfafa
+treino,outras,outras_chip_271_429_160_032.png,chip_271_429,160,32,0.855,algodao
+treino,outras,outras_chip_314_518_064_064.png,chip_314_518,64,64,0.74,outras culturas
+treino,outras,outras_chip_231_296_000_032.png,chip_231_296,0,32,0.836,sorgo
+treino,outras,outras_chip_269_299_096_192.png,chip_269_299,96,192,0.741,trigo de inverno
+treino,outras,outras_chip_239_269_064_160.png,chip_239_269,64,160,0.735,alfafa
+treino,outras,outras_chip_376_348_000_160.png,chip_376_348,0,160,0.823,algodao
+treino,outras,outras_chip_236_336_192_096.png,chip_236_336,192,96,0.84,outras culturas
+treino,outras,outras_chip_220_309_064_128.png,chip_220_309,64,128,0.72,sorgo
+treino,outras,outras_chip_239_269_032_192.png,chip_239_269,32,192,0.749,trigo de inverno
+treino,outras,outras_chip_095_218_064_000.png,chip_095_218,64,0,0.911,alfafa
+treino,outras,outras_chip_331_527_064_160.png,chip_331_527,64,160,0.843,algodao
+treino,outras,outras_chip_121_499_160_064.png,chip_121_499,160,64,0.915,outras culturas
+treino,outras,outras_chip_220_309_032_000.png,chip_220_309,32,0,0.874,sorgo
+treino,outras,outras_chip_063_198_128_032.png,chip_063_198,128,32,0.755,trigo de inverno
+treino,outras,outras_chip_057_195_192_000.png,chip_057_195,192,0,0.843,alfafa
+treino,outras,outras_chip_331_527_032_128.png,chip_331_527,32,128,0.729,algodao
+treino,outras,outras_chip_314_518_128_128.png,chip_314_518,128,128,0.8,outras culturas
+treino,outras,outras_chip_232_294_192_000.png,chip_232_294,192,0,0.941,sorgo
+treino,outras,outras_chip_256_276_192_032.png,chip_256_276,192,32,0.805,trigo de inverno
+treino,outras,outras_chip_110_041_000_192.png,chip_110_041,0,192,0.746,alfafa
+treino,outras,outras_chip_257_277_160_192.png,chip_257_277,160,192,0.91,algodao
+treino,outras,outras_chip_218_327_000_160.png,chip_218_327,0,160,0.841,outras culturas
+treino,outras,outras_chip_228_323_160_128.png,chip_228_323,160,128,0.785,sorgo
+treino,outras,outras_chip_292_540_064_160.png,chip_292_540,64,160,0.804,trigo de inverno
+treino,outras,outras_chip_050_168_064_000.png,chip_050_168,64,0,0.898,alfafa
+treino,outras,outras_chip_243_270_064_192.png,chip_243_270,64,192,0.951,algodao
+treino,outras,outras_chip_061_190_192_032.png,chip_061_190,192,32,0.925,outras culturas
+treino,outras,outras_chip_236_273_000_000.png,chip_236_273,0,0,0.84,sorgo
+treino,outras,outras_chip_230_311_160_032.png,chip_230_311,160,32,0.904,trigo de inverno
+treino,outras,outras_chip_116_449_128_000.png,chip_116_449,128,0,0.82,alfafa
+treino,outras,outras_chip_392_325_160_128.png,chip_392_325,160,128,1.0,algodao
+treino,outras,outras_chip_063_084_064_000.png,chip_063_084,64,0,0.816,outras culturas
+treino,outras,outras_chip_281_264_032_032.png,chip_281_264,32,32,0.743,sorgo
+treino,outras,outras_chip_236_332_096_128.png,chip_236_332,96,128,0.7,trigo de inverno
+treino,outras,outras_chip_232_294_160_128.png,chip_232_294,160,128,0.74,alfafa
+treino,outras,outras_chip_319_340_192_160.png,chip_319_340,192,160,0.847,algodao
+treino,outras,outras_chip_051_176_032_128.png,chip_051_176,32,128,0.95,outras culturas
+treino,outras,outras_chip_231_274_128_096.png,chip_231_274,128,96,0.792,sorgo
+treino,outras,outras_chip_227_283_192_032.png,chip_227_283,192,32,0.922,trigo de inverno
+treino,outras,outras_chip_084_175_192_000.png,chip_084_175,192,0,0.829,alfafa
+treino,outras,outras_chip_256_267_096_128.png,chip_256_267,96,128,0.844,algodao
+treino,outras,outras_chip_050_168_192_032.png,chip_050_168,192,32,0.89,outras culturas
+treino,outras,outras_chip_200_318_032_192.png,chip_200_318,32,192,0.704,sorgo
+treino,outras,outras_chip_033_196_192_096.png,chip_033_196,192,96,0.967,trigo de inverno
+treino,outras,outras_chip_084_175_096_096.png,chip_084_175,96,96,0.713,alfafa
+treino,outras,outras_chip_329_510_128_096.png,chip_329_510,128,96,0.759,algodao
+treino,outras,outras_chip_124_301_032_000.png,chip_124_301,32,0,0.788,outras culturas
+treino,outras,outras_chip_230_279_064_160.png,chip_230_279,64,160,0.807,sorgo
+treino,outras,outras_chip_284_307_000_064.png,chip_284_307,0,64,0.932,trigo de inverno
+treino,outras,outras_chip_181_023_032_160.png,chip_181_023,32,160,0.776,alfafa
+treino,outras,outras_chip_392_325_128_096.png,chip_392_325,128,96,0.732,algodao
+treino,outras,outras_chip_250_258_128_000.png,chip_250_258,128,0,0.724,outras culturas
+treino,outras,outras_chip_221_307_192_160.png,chip_221_307,192,160,0.703,sorgo
+treino,outras,outras_chip_304_299_192_128.png,chip_304_299,192,128,0.813,trigo de inverno
+treino,outras,outras_chip_050_168_032_160.png,chip_050_168,32,160,0.911,alfafa
+treino,outras,outras_chip_369_341_128_160.png,chip_369_341,128,160,0.97,algodao
+treino,outras,outras_chip_329_510_192_000.png,chip_329_510,192,0,0.865,outras culturas
+treino,outras,outras_chip_270_263_192_160.png,chip_270_263,192,160,0.972,sorgo
+treino,outras,outras_chip_181_238_064_064.png,chip_181_238,64,64,0.895,trigo de inverno
+treino,outras,outras_chip_109_158_064_128.png,chip_109_158,64,128,0.869,alfafa
+treino,outras,outras_chip_288_426_160_000.png,chip_288_426,160,0,0.937,algodao
+treino,outras,outras_chip_060_086_160_064.png,chip_060_086,160,64,0.847,outras culturas
+treino,outras,outras_chip_392_325_192_096.png,chip_392_325,192,96,0.926,sorgo
+treino,outras,outras_chip_203_308_096_192.png,chip_203_308,96,192,0.729,trigo de inverno
+treino,outras,outras_chip_131_438_128_064.png,chip_131_438,128,64,0.913,alfafa
+treino,outras,outras_chip_256_267_000_192.png,chip_256_267,0,192,0.778,algodao
+treino,outras,outras_chip_101_103_032_096.png,chip_101_103,32,96,0.839,outras culturas
+treino,outras,outras_chip_231_274_096_128.png,chip_231_274,96,128,0.804,sorgo
+treino,outras,outras_chip_222_289_064_000.png,chip_222_289,64,0,0.96,trigo de inverno
+treino,outras,outras_chip_050_168_064_032.png,chip_050_168,64,32,0.809,alfafa
+treino,outras,outras_chip_268_324_032_000.png,chip_268_324,32,0,0.97,algodao
+treino,outras,outras_chip_261_443_192_192.png,chip_261_443,192,192,0.919,outras culturas
+treino,outras,outras_chip_392_325_192_128.png,chip_392_325,192,128,0.955,sorgo
+treino,outras,outras_chip_233_293_128_000.png,chip_233_293,128,0,0.708,trigo de inverno
+treino,outras,outras_chip_084_175_192_032.png,chip_084_175,192,32,0.754,alfafa
+treino,outras,outras_chip_236_336_128_096.png,chip_236_336,128,96,0.774,algodao
+treino,outras,outras_chip_063_037_064_096.png,chip_063_037,64,96,0.712,outras culturas
+treino,outras,outras_chip_270_263_192_096.png,chip_270_263,192,96,0.955,sorgo
+treino,outras,outras_chip_199_283_032_064.png,chip_199_283,32,64,0.779,trigo de inverno
+treino,outras,outras_chip_239_269_064_096.png,chip_239_269,64,96,0.795,alfafa
+treino,outras,outras_chip_330_510_160_128.png,chip_330_510,160,128,0.735,algodao
+treino,outras,outras_chip_181_023_064_000.png,chip_181_023,64,0,0.787,outras culturas
+treino,outras,outras_chip_281_264_000_160.png,chip_281_264,0,160,0.975,sorgo
+treino,outras,outras_chip_205_288_192_064.png,chip_205_288,192,64,0.793,trigo de inverno
+treino,outras,outras_chip_239_269_032_096.png,chip_239_269,32,96,0.786,alfafa
+treino,outras,outras_chip_392_325_160_192.png,chip_392_325,160,192,0.852,algodao
+treino,outras,outras_chip_236_336_032_032.png,chip_236_336,32,32,0.85,outras culturas
+treino,outras,outras_chip_270_263_160_160.png,chip_270_263,160,160,0.839,sorgo
+treino,outras,outras_chip_124_303_096_160.png,chip_124_303,96,160,0.72,trigo de inverno
+treino,nao_ha,nao_ha_chip_094_358_032_032.png,chip_094_358,32,32,0.908,agua
+treino,nao_ha,nao_ha_chip_319_526_192_192.png,chip_319_526,192,192,0.718,algodao
+treino,nao_ha,nao_ha_chip_065_352_000_000.png,chip_065_352,0,0,0.702,area umida
+treino,nao_ha,nao_ha_chip_182_612_192_128.png,chip_182_612,192,128,0.926,floresta
+treino,nao_ha,nao_ha_chip_084_363_128_160.png,chip_084_363,128,160,0.702,milho
+treino,nao_ha,nao_ha_chip_359_558_064_032.png,chip_359_558,64,32,0.707,outras culturas
+treino,nao_ha,nao_ha_chip_263_449_000_032.png,chip_263_449,0,32,0.706,soja
+treino,nao_ha,nao_ha_chip_132_474_000_000.png,chip_132_474,0,0,0.794,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_065_059_064_160.png,chip_065_059,64,160,0.741,vegetacao natural
+treino,nao_ha,nao_ha_chip_148_491_000_000.png,chip_148_491,0,0,0.994,agua
+treino,nao_ha,nao_ha_chip_319_526_064_096.png,chip_319_526,64,96,0.703,algodao
+treino,nao_ha,nao_ha_chip_120_505_064_000.png,chip_120_505,64,0,1.0,area umida
+treino,nao_ha,nao_ha_chip_213_416_032_128.png,chip_213_416,32,128,0.742,floresta
+treino,nao_ha,nao_ha_chip_002_060_096_160.png,chip_002_060,96,160,0.717,outras culturas
+treino,nao_ha,nao_ha_chip_236_445_128_096.png,chip_236_445,128,96,0.702,soja
+treino,nao_ha,nao_ha_chip_121_491_160_032.png,chip_121_491,160,32,1.0,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_220_266_096_032.png,chip_220_266,96,32,0.746,vegetacao natural
+treino,nao_ha,nao_ha_chip_313_341_160_192.png,chip_313_341,160,192,0.927,agua
+treino,nao_ha,nao_ha_chip_376_348_128_064.png,chip_376_348,128,64,0.702,algodao
+treino,nao_ha,nao_ha_chip_110_417_128_064.png,chip_110_417,128,64,0.871,area umida
+treino,nao_ha,nao_ha_chip_314_518_064_032.png,chip_314_518,64,32,0.776,floresta
+treino,nao_ha,nao_ha_chip_324_517_064_064.png,chip_324_517,64,64,0.707,outras culturas
+treino,nao_ha,nao_ha_chip_216_467_160_096.png,chip_216_467,160,96,0.712,soja
+treino,nao_ha,nao_ha_chip_181_504_096_160.png,chip_181_504,96,160,0.855,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_289_444_128_160.png,chip_289_444,128,160,0.725,vegetacao natural
+treino,nao_ha,nao_ha_chip_174_015_160_032.png,chip_174_015,160,32,1.0,agua
+treino,nao_ha,nao_ha_chip_313_341_192_096.png,chip_313_341,192,96,0.941,area umida
+treino,nao_ha,nao_ha_chip_153_405_032_128.png,chip_153_405,32,128,0.779,floresta
+treino,nao_ha,nao_ha_chip_215_429_032_128.png,chip_215_429,32,128,0.706,outras culturas
+treino,nao_ha,nao_ha_chip_236_445_096_160.png,chip_236_445,96,160,0.709,soja
+treino,nao_ha,nao_ha_chip_152_477_032_032.png,chip_152_477,32,32,0.91,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_089_589_096_128.png,chip_089_589,96,128,0.98,vegetacao natural
+treino,nao_ha,nao_ha_chip_101_332_032_064.png,chip_101_332,32,64,0.71,agua
+treino,nao_ha,nao_ha_chip_281_560_000_128.png,chip_281_560,0,128,0.963,area umida
+treino,nao_ha,nao_ha_chip_292_540_000_032.png,chip_292_540,0,32,0.724,floresta
+treino,nao_ha,nao_ha_chip_144_434_160_128.png,chip_144_434,160,128,0.737,soja
+treino,nao_ha,nao_ha_chip_143_496_128_064.png,chip_143_496,128,64,0.991,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_183_481_000_000.png,chip_183_481,0,0,0.702,vegetacao natural
+treino,nao_ha,nao_ha_chip_174_015_192_064.png,chip_174_015,192,64,1.0,agua
+treino,nao_ha,nao_ha_chip_249_449_160_000.png,chip_249_449,160,0,0.771,area umida
+treino,nao_ha,nao_ha_chip_171_585_160_128.png,chip_171_585,160,128,0.907,floresta
+treino,nao_ha,nao_ha_chip_002_060_128_064.png,chip_002_060,128,64,0.995,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_190_375_000_192.png,chip_190_375,0,192,0.754,vegetacao natural
+treino,nao_ha,nao_ha_chip_171_352_032_032.png,chip_171_352,32,32,0.806,agua
+treino,nao_ha,nao_ha_chip_133_360_032_128.png,chip_133_360,32,128,0.746,area umida
+treino,nao_ha,nao_ha_chip_194_485_192_032.png,chip_194_485,192,32,0.858,floresta
+treino,nao_ha,nao_ha_chip_143_497_032_160.png,chip_143_497,32,160,0.991,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_391_323_096_000.png,chip_391_323,96,0,0.982,vegetacao natural
+treino,nao_ha,nao_ha_chip_059_259_160_096.png,chip_059_259,160,96,0.756,agua
+treino,nao_ha,nao_ha_chip_153_490_128_128.png,chip_153_490,128,128,0.705,area umida
+treino,nao_ha,nao_ha_chip_201_433_032_160.png,chip_201_433,32,160,0.969,floresta
+treino,nao_ha,nao_ha_chip_165_447_064_128.png,chip_165_447,64,128,0.933,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_081_218_128_096.png,chip_081_218,128,96,0.744,vegetacao natural
+treino,nao_ha,nao_ha_chip_096_341_192_064.png,chip_096_341,192,64,0.997,agua
+treino,nao_ha,nao_ha_chip_295_409_032_192.png,chip_295_409,32,192,0.737,area umida
+treino,nao_ha,nao_ha_chip_165_447_128_064.png,chip_165_447,128,64,0.924,floresta
+treino,nao_ha,nao_ha_chip_141_500_064_160.png,chip_141_500,64,160,0.948,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_182_240_160_160.png,chip_182_240,160,160,0.779,vegetacao natural
+treino,nao_ha,nao_ha_chip_102_345_128_000.png,chip_102_345,128,0,1.0,agua
+treino,nao_ha,nao_ha_chip_335_498_192_032.png,chip_335_498,192,32,0.887,area umida
+treino,nao_ha,nao_ha_chip_237_592_000_192.png,chip_237_592,0,192,0.791,floresta
+treino,nao_ha,nao_ha_chip_174_015_192_192.png,chip_174_015,192,192,0.971,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_242_280_096_000.png,chip_242_280,96,0,0.917,vegetacao natural
+treino,nao_ha,nao_ha_chip_102_327_000_128.png,chip_102_327,0,128,0.946,agua
+treino,nao_ha,nao_ha_chip_164_446_096_128.png,chip_164_446,96,128,0.988,area umida
+treino,nao_ha,nao_ha_chip_002_060_032_128.png,chip_002_060,32,128,0.874,floresta
+treino,nao_ha,nao_ha_chip_271_486_128_128.png,chip_271_486,128,128,0.947,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_228_323_192_000.png,chip_228_323,192,0,0.844,vegetacao natural
+treino,nao_ha,nao_ha_chip_271_429_064_096.png,chip_271_429,64,96,0.874,agua
+treino,nao_ha,nao_ha_chip_293_546_160_160.png,chip_293_546,160,160,0.937,area umida
+treino,nao_ha,nao_ha_chip_325_500_096_160.png,chip_325_500,96,160,0.708,floresta
+treino,nao_ha,nao_ha_chip_144_434_000_160.png,chip_144_434,0,160,0.995,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_232_322_192_032.png,chip_232_322,192,32,0.911,vegetacao natural
+treino,nao_ha,nao_ha_chip_234_443_032_064.png,chip_234_443,32,64,0.947,agua
+treino,nao_ha,nao_ha_chip_113_431_064_064.png,chip_113_431,64,64,0.958,area umida
+treino,nao_ha,nao_ha_chip_313_341_032_032.png,chip_313_341,32,32,0.969,floresta
+treino,nao_ha,nao_ha_chip_154_486_096_032.png,chip_154_486,96,32,0.95,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_051_176_000_064.png,chip_051_176,0,64,0.848,vegetacao natural
+treino,nao_ha,nao_ha_chip_171_413_160_032.png,chip_171_413,160,32,1.0,agua
+treino,nao_ha,nao_ha_chip_124_439_096_064.png,chip_124_439,96,64,0.855,area umida
+treino,nao_ha,nao_ha_chip_113_431_032_160.png,chip_113_431,32,160,0.989,floresta
+treino,nao_ha,nao_ha_chip_148_491_096_160.png,chip_148_491,96,160,0.995,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_263_449_032_032.png,chip_263_449,32,32,0.775,vegetacao natural
+treino,nao_ha,nao_ha_chip_178_022_000_128.png,chip_178_022,0,128,0.838,agua
+treino,nao_ha,nao_ha_chip_114_448_192_192.png,chip_114_448,192,192,0.821,area umida
+treino,nao_ha,nao_ha_chip_306_527_192_128.png,chip_306_527,192,128,0.736,floresta
+treino,nao_ha,nao_ha_chip_200_016_192_192.png,chip_200_016,192,192,1.0,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_113_422_128_128.png,chip_113_422,128,128,0.755,vegetacao natural
+treino,nao_ha,nao_ha_chip_174_015_192_032.png,chip_174_015,192,32,1.0,agua
+treino,nao_ha,nao_ha_chip_275_409_032_096.png,chip_275_409,32,96,0.873,area umida
+treino,nao_ha,nao_ha_chip_195_410_160_032.png,chip_195_410,160,32,1.0,floresta
+treino,nao_ha,nao_ha_chip_256_580_096_096.png,chip_256_580,96,96,0.86,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_319_340_000_192.png,chip_319_340,0,192,0.748,vegetacao natural
+treino,nao_ha,nao_ha_chip_059_259_064_160.png,chip_059_259,64,160,0.777,agua
+treino,nao_ha,nao_ha_chip_131_428_192_160.png,chip_131_428,192,160,0.849,area umida
+treino,nao_ha,nao_ha_chip_252_583_032_192.png,chip_252_583,32,192,0.701,floresta
+treino,nao_ha,nao_ha_chip_200_016_064_128.png,chip_200_016,64,128,0.902,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_164_519_128_160.png,chip_164_519,128,160,0.872,vegetacao natural
+treino,nao_ha,nao_ha_chip_174_015_032_128.png,chip_174_015,32,128,0.994,agua
+treino,nao_ha,nao_ha_chip_207_423_064_192.png,chip_207_423,64,192,0.935,area umida
+treino,nao_ha,nao_ha_chip_271_429_096_192.png,chip_271_429,96,192,0.985,floresta
+treino,nao_ha,nao_ha_chip_009_061_128_192.png,chip_009_061,128,192,0.992,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_101_332_032_032.png,chip_101_332,32,32,0.801,vegetacao natural
+treino,nao_ha,nao_ha_chip_201_433_128_160.png,chip_201_433,128,160,0.999,agua
+treino,nao_ha,nao_ha_chip_159_417_160_160.png,chip_159_417,160,160,0.981,area umida
+treino,nao_ha,nao_ha_chip_292_542_000_000.png,chip_292_542,0,0,0.983,floresta
+treino,nao_ha,nao_ha_chip_392_325_032_160.png,chip_392_325,32,160,0.974,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_232_269_192_128.png,chip_232_269,192,128,0.955,vegetacao natural
+treino,nao_ha,nao_ha_chip_129_480_000_096.png,chip_129_480,0,96,0.893,agua
+treino,nao_ha,nao_ha_chip_153_476_096_000.png,chip_153_476,96,0,0.978,area umida
+treino,nao_ha,nao_ha_chip_169_433_192_064.png,chip_169_433,192,64,0.751,floresta
+treino,nao_ha,nao_ha_chip_230_315_000_000.png,chip_230_315,0,0,1.0,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_320_314_160_064.png,chip_320_314,160,64,0.972,vegetacao natural
+treino,nao_ha,nao_ha_chip_119_439_000_192.png,chip_119_439,0,192,0.984,agua
+treino,nao_ha,nao_ha_chip_127_491_160_000.png,chip_127_491,160,0,0.728,area umida
+treino,nao_ha,nao_ha_chip_109_421_000_064.png,chip_109_421,0,64,0.709,floresta
+treino,nao_ha,nao_ha_chip_159_420_096_192.png,chip_159_420,96,192,0.723,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_184_236_192_192.png,chip_184_236,192,192,0.705,vegetacao natural
+treino,nao_ha,nao_ha_chip_144_473_096_064.png,chip_144_473,96,64,0.794,agua
+treino,nao_ha,nao_ha_chip_120_443_128_160.png,chip_120_443,128,160,0.708,area umida
+treino,nao_ha,nao_ha_chip_330_498_128_128.png,chip_330_498,128,128,0.896,floresta
+treino,nao_ha,nao_ha_chip_238_285_192_128.png,chip_238_285,192,128,0.945,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_110_041_064_032.png,chip_110_041,64,32,0.975,vegetacao natural
+treino,nao_ha,nao_ha_chip_199_321_064_032.png,chip_199_321,64,32,0.988,agua
+treino,nao_ha,nao_ha_chip_261_412_096_128.png,chip_261_412,96,128,0.934,area umida
+treino,nao_ha,nao_ha_chip_221_438_000_000.png,chip_221_438,0,0,0.861,floresta
+treino,nao_ha,nao_ha_chip_369_349_064_128.png,chip_369_349,64,128,0.745,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_185_410_192_064.png,chip_185_410,192,64,0.736,vegetacao natural
+treino,nao_ha,nao_ha_chip_169_032_192_064.png,chip_169_032,192,64,1.0,agua
+treino,nao_ha,nao_ha_chip_293_546_128_192.png,chip_293_546,128,192,0.975,area umida
+treino,nao_ha,nao_ha_chip_182_497_128_064.png,chip_182_497,128,64,0.702,floresta
+treino,nao_ha,nao_ha_chip_063_198_096_096.png,chip_063_198,96,96,0.891,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_227_277_000_160.png,chip_227_277,0,160,0.97,vegetacao natural
+treino,nao_ha,nao_ha_chip_060_086_096_032.png,chip_060_086,96,32,1.0,agua
+treino,nao_ha,nao_ha_chip_088_360_032_000.png,chip_088_360,32,0,0.954,area umida
+treino,nao_ha,nao_ha_chip_141_500_032_160.png,chip_141_500,32,160,0.963,floresta
+treino,nao_ha,nao_ha_chip_234_443_064_192.png,chip_234_443,64,192,0.987,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_034_112_064_096.png,chip_034_112,64,96,0.924,vegetacao natural
+treino,nao_ha,nao_ha_chip_160_479_032_128.png,chip_160_479,32,128,0.921,agua
+treino,nao_ha,nao_ha_chip_250_594_096_000.png,chip_250_594,96,0,0.714,area umida
+treino,nao_ha,nao_ha_chip_186_511_064_064.png,chip_186_511,64,64,0.927,floresta
+treino,nao_ha,nao_ha_chip_119_439_128_000.png,chip_119_439,128,0,0.846,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_330_501_064_032.png,chip_330_501,64,32,0.729,vegetacao natural
+treino,nao_ha,nao_ha_chip_059_082_160_096.png,chip_059_082,160,96,1.0,agua
+treino,nao_ha,nao_ha_chip_120_505_064_032.png,chip_120_505,64,32,1.0,area umida
+treino,nao_ha,nao_ha_chip_358_323_032_032.png,chip_358_323,32,32,0.996,floresta
+treino,nao_ha,nao_ha_chip_180_241_000_192.png,chip_180_241,0,192,0.963,urbano/solo exposto
+treino,nao_ha,nao_ha_chip_330_501_160_000.png,chip_330_501,160,0,0.704,vegetacao natural
+treino,nao_ha,nao_ha_chip_096_341_096_192.png,chip_096_341,96,192,1.0,agua
+treino,nao_ha,nao_ha_chip_315_514_128_128.png,chip_315_514,128,128,0.954,area umida
+teste,soja,soja_chip_128_312_000_160.png,chip_128_312,0,160,0.887,soja
+teste,soja,soja_chip_208_431_096_000.png,chip_208_431,96,0,0.797,soja
+teste,soja,soja_chip_262_414_128_064.png,chip_262_414,128,64,0.737,soja
+teste,soja,soja_chip_202_336_096_000.png,chip_202_336,96,0,0.785,soja
+teste,soja,soja_chip_201_364_032_064.png,chip_201_364,32,64,0.865,soja
+teste,soja,soja_chip_201_364_032_032.png,chip_201_364,32,32,0.75,soja
+teste,soja,soja_chip_129_505_032_128.png,chip_129_505,32,128,0.745,soja
+teste,soja,soja_chip_187_401_160_032.png,chip_187_401,160,32,0.754,soja
+teste,soja,soja_chip_120_508_032_160.png,chip_120_508,32,160,0.709,soja
+teste,soja,soja_chip_250_448_000_128.png,chip_250_448,0,128,0.831,soja
+teste,soja,soja_chip_254_444_160_032.png,chip_254_444,160,32,0.916,soja
+teste,soja,soja_chip_193_419_064_064.png,chip_193_419,64,64,0.768,soja
+teste,soja,soja_chip_192_490_000_128.png,chip_192_490,0,128,0.717,soja
+teste,soja,soja_chip_157_421_128_096.png,chip_157_421,128,96,0.918,soja
+teste,soja,soja_chip_192_490_032_128.png,chip_192_490,32,128,0.796,soja
+teste,soja,soja_chip_189_360_064_128.png,chip_189_360,64,128,0.77,soja
+teste,soja,soja_chip_219_323_064_096.png,chip_219_323,64,96,0.865,soja
+teste,soja,soja_chip_100_306_128_128.png,chip_100_306,128,128,0.825,soja
+teste,soja,soja_chip_201_364_000_032.png,chip_201_364,0,32,0.765,soja
+teste,soja,soja_chip_184_400_160_000.png,chip_184_400,160,0,0.827,soja
+teste,soja,soja_chip_300_412_192_032.png,chip_300_412,192,32,0.73,soja
+teste,soja,soja_chip_131_316_192_128.png,chip_131_316,192,128,0.747,soja
+teste,soja,soja_chip_081_337_160_032.png,chip_081_337,160,32,0.785,soja
+teste,soja,soja_chip_234_334_064_096.png,chip_234_334,64,96,0.776,soja
+teste,soja,soja_chip_186_408_096_000.png,chip_186_408,96,0,0.756,soja
+teste,soja,soja_chip_227_461_032_000.png,chip_227_461,32,0,0.883,soja
+teste,soja,soja_chip_126_506_096_000.png,chip_126_506,96,0,0.717,soja
+teste,soja,soja_chip_232_333_192_160.png,chip_232_333,192,160,0.81,soja
+teste,soja,soja_chip_119_332_096_000.png,chip_119_332,96,0,0.819,soja
+teste,soja,soja_chip_143_411_064_032.png,chip_143_411,64,32,0.743,soja
+teste,soja,soja_chip_240_447_160_096.png,chip_240_447,160,96,0.828,soja
+teste,soja,soja_chip_100_356_160_064.png,chip_100_356,160,64,0.779,soja
+teste,soja,soja_chip_213_332_192_032.png,chip_213_332,192,32,0.702,soja
+teste,soja,soja_chip_143_411_000_064.png,chip_143_411,0,64,0.843,soja
+teste,soja,soja_chip_202_425_032_032.png,chip_202_425,32,32,0.803,soja
+teste,soja,soja_chip_208_431_000_032.png,chip_208_431,0,32,0.864,soja
+teste,soja,soja_chip_081_337_032_064.png,chip_081_337,32,64,0.748,soja
+teste,soja,soja_chip_126_303_160_032.png,chip_126_303,160,32,0.772,soja
+teste,soja,soja_chip_141_487_000_096.png,chip_141_487,0,96,0.714,soja
+teste,soja,soja_chip_214_467_096_064.png,chip_214_467,96,64,0.72,soja
+teste,soja,soja_chip_183_407_128_160.png,chip_183_407,128,160,0.739,soja
+teste,soja,soja_chip_143_488_000_192.png,chip_143_488,0,192,0.796,soja
+teste,soja,soja_chip_162_479_000_064.png,chip_162_479,0,64,0.719,soja
+teste,soja,soja_chip_240_447_096_064.png,chip_240_447,96,64,0.786,soja
+teste,soja,soja_chip_100_306_128_000.png,chip_100_306,128,0,0.931,soja
+teste,soja,soja_chip_193_312_128_064.png,chip_193_312,128,64,0.73,soja
+teste,soja,soja_chip_182_406_000_032.png,chip_182_406,0,32,0.795,soja
+teste,soja,soja_chip_185_458_064_000.png,chip_185_458,64,0,0.802,soja
+teste,soja,soja_chip_131_316_096_160.png,chip_131_316,96,160,0.747,soja
+teste,soja,soja_chip_143_411_096_064.png,chip_143_411,96,64,0.733,soja
+teste,soja,soja_chip_185_458_032_000.png,chip_185_458,32,0,0.823,soja
+teste,soja,soja_chip_081_337_064_032.png,chip_081_337,64,32,0.787,soja
+teste,soja,soja_chip_217_330_000_064.png,chip_217_330,0,64,0.711,soja
+teste,soja,soja_chip_195_406_128_160.png,chip_195_406,128,160,0.754,soja
+teste,soja,soja_chip_080_346_128_192.png,chip_080_346,128,192,0.935,soja
+teste,soja,soja_chip_132_490_032_032.png,chip_132_490,32,32,0.87,soja
+teste,soja,soja_chip_149_477_128_000.png,chip_149_477,128,0,0.743,soja
+teste,soja,soja_chip_120_508_096_192.png,chip_120_508,96,192,0.792,soja
+teste,soja,soja_chip_143_488_128_032.png,chip_143_488,128,32,0.709,soja
+teste,soja,soja_chip_081_337_000_192.png,chip_081_337,0,192,0.7,soja
+teste,soja,soja_chip_300_412_032_032.png,chip_300_412,32,32,0.709,soja
+teste,soja,soja_chip_176_506_000_192.png,chip_176_506,0,192,0.892,soja
+teste,soja,soja_chip_131_316_096_096.png,chip_131_316,96,96,0.836,soja
+teste,soja,soja_chip_217_429_064_160.png,chip_217_429,64,160,0.785,soja
+teste,soja,soja_chip_127_304_000_160.png,chip_127_304,0,160,0.904,soja
+teste,soja,soja_chip_240_447_096_096.png,chip_240_447,96,96,0.739,soja
+teste,soja,soja_chip_104_318_032_032.png,chip_104_318,32,32,0.709,soja
+teste,soja,soja_chip_100_306_128_160.png,chip_100_306,128,160,0.773,soja
+teste,soja,soja_chip_182_406_000_064.png,chip_182_406,0,64,0.802,soja
+teste,soja,soja_chip_226_335_064_064.png,chip_226_335,64,64,0.705,soja
+teste,soja,soja_chip_128_312_000_192.png,chip_128_312,0,192,0.763,soja
+teste,soja,soja_chip_112_330_032_192.png,chip_112_330,32,192,0.842,soja
+teste,soja,soja_chip_207_438_096_160.png,chip_207_438,96,160,0.773,soja
+teste,soja,soja_chip_194_400_192_192.png,chip_194_400,192,192,0.799,soja
+teste,soja,soja_chip_194_400_000_160.png,chip_194_400,0,160,0.76,soja
+teste,soja,soja_chip_112_330_096_000.png,chip_112_330,96,0,0.704,soja
+teste,soja,soja_chip_130_486_000_192.png,chip_130_486,0,192,0.721,soja
+teste,soja,soja_chip_330_414_032_032.png,chip_330_414,32,32,0.911,soja
+teste,soja,soja_chip_242_332_096_000.png,chip_242_332,96,0,0.866,soja
+teste,soja,soja_chip_242_597_160_096.png,chip_242_597,160,96,0.76,soja
+teste,soja,soja_chip_092_323_064_000.png,chip_092_323,64,0,0.709,soja
+teste,soja,soja_chip_186_408_064_128.png,chip_186_408,64,128,0.737,soja
+teste,soja,soja_chip_202_425_128_032.png,chip_202_425,128,32,0.778,soja
+teste,soja,soja_chip_191_492_160_000.png,chip_191_492,160,0,0.762,soja
+teste,soja,soja_chip_200_456_192_064.png,chip_200_456,192,64,0.909,soja
+teste,soja,soja_chip_189_429_128_192.png,chip_189_429,128,192,0.947,soja
+teste,soja,soja_chip_276_403_160_128.png,chip_276_403,160,128,0.762,soja
+teste,soja,soja_chip_221_442_128_096.png,chip_221_442,128,96,0.741,soja
+teste,soja,soja_chip_207_324_160_096.png,chip_207_324,160,96,0.837,soja
+teste,soja,soja_chip_194_468_064_128.png,chip_194_468,64,128,0.701,soja
+teste,soja,soja_chip_246_334_192_000.png,chip_246_334,192,0,0.703,soja
+teste,soja,soja_chip_190_428_064_000.png,chip_190_428,64,0,0.717,soja
+teste,soja,soja_chip_189_429_000_192.png,chip_189_429,0,192,0.794,soja
+teste,soja,soja_chip_127_304_032_128.png,chip_127_304,32,128,0.945,soja
+teste,soja,soja_chip_194_468_064_000.png,chip_194_468,64,0,0.793,soja
+teste,soja,soja_chip_104_318_128_160.png,chip_104_318,128,160,0.779,soja
+teste,soja,soja_chip_236_335_096_160.png,chip_236_335,96,160,0.848,soja
+teste,soja,soja_chip_125_303_064_160.png,chip_125_303,64,160,0.889,soja
+teste,soja,soja_chip_220_431_064_128.png,chip_220_431,64,128,0.715,soja
+teste,soja,soja_chip_184_400_192_032.png,chip_184_400,192,32,0.853,soja
+teste,milho,milho_chip_183_489_000_064.png,chip_183_489,0,64,0.706,milho
+teste,milho,milho_chip_252_448_096_128.png,chip_252_448,96,128,0.757,milho
+teste,milho,milho_chip_123_343_064_000.png,chip_123_343,64,0,0.947,milho
+teste,milho,milho_chip_321_340_064_192.png,chip_321_340,64,192,0.816,milho
+teste,milho,milho_chip_127_304_064_128.png,chip_127_304,64,128,0.808,milho
+teste,milho,milho_chip_255_275_000_096.png,chip_255_275,0,96,0.765,milho
+teste,milho,milho_chip_205_286_096_000.png,chip_205_286,96,0,0.93,milho
+teste,milho,milho_chip_156_387_160_000.png,chip_156_387,160,0,0.854,milho
+teste,milho,milho_chip_187_259_096_128.png,chip_187_259,96,128,0.974,milho
+teste,milho,milho_chip_143_411_000_000.png,chip_143_411,0,0,0.727,milho
+teste,milho,milho_chip_216_280_096_000.png,chip_216_280,96,0,0.835,milho
+teste,milho,milho_chip_196_369_128_192.png,chip_196_369,128,192,0.716,milho
+teste,milho,milho_chip_300_412_160_128.png,chip_300_412,160,128,0.701,milho
+teste,milho,milho_chip_164_477_192_000.png,chip_164_477,192,0,0.702,milho
+teste,milho,milho_chip_238_469_064_032.png,chip_238_469,64,32,0.72,milho
+teste,milho,milho_chip_166_434_192_096.png,chip_166_434,192,96,0.869,milho
+teste,milho,milho_chip_227_461_064_032.png,chip_227_461,64,32,0.928,milho
+teste,milho,milho_chip_156_387_064_064.png,chip_156_387,64,64,0.89,milho
+teste,milho,milho_chip_255_276_160_000.png,chip_255_276,160,0,0.808,milho
+teste,milho,milho_chip_252_592_192_096.png,chip_252_592,192,96,0.795,milho
+teste,milho,milho_chip_187_406_032_064.png,chip_187_406,32,64,0.741,milho
+teste,milho,milho_chip_156_387_096_128.png,chip_156_387,96,128,0.87,milho
+teste,milho,milho_chip_149_478_128_096.png,chip_149_478,128,96,0.713,milho
+teste,milho,milho_chip_233_283_160_160.png,chip_233_283,160,160,0.744,milho
+teste,milho,milho_chip_164_481_032_032.png,chip_164_481,32,32,0.78,milho
+teste,milho,milho_chip_332_332_032_160.png,chip_332_332,32,160,0.911,milho
+teste,milho,milho_chip_368_344_128_128.png,chip_368_344,128,128,0.822,milho
+teste,milho,milho_chip_189_429_192_192.png,chip_189_429,192,192,0.753,milho
+teste,milho,milho_chip_214_467_128_064.png,chip_214_467,128,64,0.781,milho
+teste,milho,milho_chip_166_406_000_192.png,chip_166_406,0,192,0.947,milho
+teste,milho,milho_chip_080_334_064_192.png,chip_080_334,64,192,0.779,milho
+teste,milho,milho_chip_251_448_160_000.png,chip_251_448,160,0,0.723,milho
+teste,milho,milho_chip_126_506_032_096.png,chip_126_506,32,96,0.743,milho
+teste,milho,milho_chip_232_279_128_032.png,chip_232_279,128,32,0.722,milho
+teste,milho,milho_chip_046_088_192_128.png,chip_046_088,192,128,0.721,milho
+teste,milho,milho_chip_216_280_064_064.png,chip_216_280,64,64,0.816,milho
+teste,milho,milho_chip_191_495_064_128.png,chip_191_495,64,128,0.822,milho
+teste,milho,milho_chip_052_076_096_000.png,chip_052_076,96,0,0.707,milho
+teste,milho,milho_chip_052_076_128_032.png,chip_052_076,128,32,0.729,milho
+teste,milho,milho_chip_234_289_096_192.png,chip_234_289,96,192,0.728,milho
+teste,milho,milho_chip_131_316_160_000.png,chip_131_316,160,0,0.705,milho
+teste,milho,milho_chip_184_503_032_192.png,chip_184_503,32,192,0.725,milho
+teste,milho,milho_chip_385_323_000_096.png,chip_385_323,0,96,0.752,milho
+teste,milho,milho_chip_387_325_000_064.png,chip_387_325,0,64,0.9,milho
+teste,milho,milho_chip_252_592_192_064.png,chip_252_592,192,64,0.851,milho
+teste,milho,milho_chip_194_468_128_096.png,chip_194_468,128,96,0.753,milho
+teste,milho,milho_chip_183_239_032_192.png,chip_183_239,32,192,0.734,milho
+teste,milho,milho_chip_202_419_064_096.png,chip_202_419,64,96,0.817,milho
+teste,milho,milho_chip_112_330_032_064.png,chip_112_330,32,64,0.739,milho
+teste,milho,milho_chip_232_279_128_064.png,chip_232_279,128,64,0.725,milho
+teste,milho,milho_chip_385_323_032_096.png,chip_385_323,32,96,0.823,milho
+teste,milho,milho_chip_106_442_000_128.png,chip_106_442,0,128,0.73,milho
+teste,milho,milho_chip_253_443_032_128.png,chip_253_443,32,128,0.771,milho
+teste,milho,milho_chip_080_334_192_064.png,chip_080_334,192,64,0.867,milho
+teste,milho,milho_chip_234_289_064_192.png,chip_234_289,64,192,0.762,milho
+teste,milho,milho_chip_187_401_192_128.png,chip_187_401,192,128,0.706,milho
+teste,milho,milho_chip_255_276_032_128.png,chip_255_276,32,128,0.827,milho
+teste,milho,milho_chip_387_325_000_032.png,chip_387_325,0,32,0.852,milho
+teste,milho,milho_chip_174_348_192_192.png,chip_174_348,192,192,0.744,milho
+teste,milho,milho_chip_181_607_128_032.png,chip_181_607,128,32,0.831,milho
+teste,milho,milho_chip_300_412_128_064.png,chip_300_412,128,64,0.929,milho
+teste,milho,milho_chip_174_400_096_000.png,chip_174_400,96,0,0.87,milho
+teste,milho,milho_chip_182_406_192_064.png,chip_182_406,192,64,0.752,milho
+teste,milho,milho_chip_131_316_160_096.png,chip_131_316,160,96,0.7,milho
+teste,milho,milho_chip_255_276_064_160.png,chip_255_276,64,160,0.733,milho
+teste,milho,milho_chip_236_335_064_160.png,chip_236_335,64,160,0.733,milho
+teste,milho,milho_chip_190_428_032_128.png,chip_190_428,32,128,0.767,milho
+teste,milho,milho_chip_180_407_000_128.png,chip_180_407,0,128,0.723,milho
+teste,milho,milho_chip_134_437_160_096.png,chip_134_437,160,96,0.701,milho
+teste,milho,milho_chip_332_332_192_032.png,chip_332_332,192,32,0.835,milho
+teste,milho,milho_chip_273_471_032_000.png,chip_273_471,32,0,0.729,milho
+teste,milho,milho_chip_146_343_128_032.png,chip_146_343,128,32,0.728,milho
+teste,milho,milho_chip_080_334_096_160.png,chip_080_334,96,160,0.793,milho
+teste,milho,milho_chip_368_344_192_128.png,chip_368_344,192,128,0.862,milho
+teste,milho,milho_chip_232_279_192_192.png,chip_232_279,192,192,0.808,milho
+teste,milho,milho_chip_226_335_032_096.png,chip_226_335,32,96,0.707,milho
+teste,milho,milho_chip_118_558_096_032.png,chip_118_558,96,32,0.746,milho
+teste,milho,milho_chip_161_423_064_128.png,chip_161_423,64,128,0.715,milho
+teste,milho,milho_chip_216_460_000_000.png,chip_216_460,0,0,0.732,milho
+teste,milho,milho_chip_149_477_064_096.png,chip_149_477,64,96,0.822,milho
+teste,milho,milho_chip_194_468_128_128.png,chip_194_468,128,128,0.774,milho
+teste,milho,milho_chip_175_515_160_160.png,chip_175_515,160,160,0.805,milho
+teste,milho,milho_chip_083_210_128_032.png,chip_083_210,128,32,0.774,milho
+teste,milho,milho_chip_365_345_160_032.png,chip_365_345,160,32,0.892,milho
+teste,milho,milho_chip_209_275_000_000.png,chip_209_275,0,0,0.859,milho
+teste,milho,milho_chip_300_412_128_128.png,chip_300_412,128,128,0.792,milho
+teste,milho,milho_chip_321_340_032_128.png,chip_321_340,32,128,0.871,milho
+teste,milho,milho_chip_138_363_032_000.png,chip_138_363,32,0,0.825,milho
+teste,milho,milho_chip_387_325_000_096.png,chip_387_325,0,96,0.815,milho
+teste,milho,milho_chip_122_504_192_000.png,chip_122_504,192,0,0.817,milho
+teste,milho,milho_chip_208_431_032_000.png,chip_208_431,32,0,0.786,milho
+teste,milho,milho_chip_196_369_000_128.png,chip_196_369,0,128,0.803,milho
+teste,milho,milho_chip_207_438_192_128.png,chip_207_438,192,128,0.76,milho
+teste,milho,milho_chip_130_486_000_160.png,chip_130_486,0,160,0.716,milho
+teste,milho,milho_chip_216_280_032_096.png,chip_216_280,32,96,0.997,milho
+teste,milho,milho_chip_255_276_000_160.png,chip_255_276,0,160,0.765,milho
+teste,milho,milho_chip_104_318_128_000.png,chip_104_318,128,0,0.771,milho
+teste,milho,milho_chip_124_124_000_064.png,chip_124_124,0,64,0.754,milho
+teste,milho,milho_chip_201_364_000_064.png,chip_201_364,0,64,0.762,milho
+teste,milho,milho_chip_200_456_096_160.png,chip_200_456,96,160,0.751,milho
+teste,outras,outras_chip_132_490_032_192.png,chip_132_490,32,192,0.812,alfafa
+teste,outras,outras_chip_298_453_000_160.png,chip_298_453,0,160,0.747,algodao
+teste,outras,outras_chip_034_146_032_192.png,chip_034_146,32,192,0.727,outras culturas
+teste,outras,outras_chip_218_292_032_192.png,chip_218_292,32,192,0.752,sorgo
+teste,outras,outras_chip_130_486_160_000.png,chip_130_486,160,0,0.7,trigo de inverno
+teste,outras,outras_chip_049_232_064_000.png,chip_049_232,64,0,0.805,alfafa
+teste,outras,outras_chip_283_264_096_160.png,chip_283_264,96,160,0.861,algodao
+teste,outras,outras_chip_239_334_000_096.png,chip_239_334,0,96,0.85,outras culturas
+teste,outras,outras_chip_234_289_032_096.png,chip_234_289,32,96,0.965,sorgo
+teste,outras,outras_chip_083_210_160_192.png,chip_083_210,160,192,0.707,trigo de inverno
+teste,outras,outras_chip_242_332_160_192.png,chip_242_332,160,192,0.757,alfafa
+teste,outras,outras_chip_283_264_128_096.png,chip_283_264,128,96,0.846,algodao
+teste,outras,outras_chip_275_475_128_160.png,chip_275_475,128,160,0.715,outras culturas
+teste,outras,outras_chip_219_288_160_064.png,chip_219_288,160,64,0.813,sorgo
+teste,outras,outras_chip_219_323_032_160.png,chip_219_323,32,160,0.966,trigo de inverno
+teste,outras,outras_chip_046_088_096_064.png,chip_046_088,96,64,0.793,alfafa
+teste,outras,outras_chip_283_264_096_128.png,chip_283_264,96,128,0.852,algodao
+teste,outras,outras_chip_046_088_096_096.png,chip_046_088,96,96,0.859,outras culturas
+teste,outras,outras_chip_232_279_064_192.png,chip_232_279,64,192,0.701,sorgo
+teste,outras,outras_chip_246_334_096_032.png,chip_246_334,96,32,0.809,trigo de inverno
+teste,outras,outras_chip_243_263_160_032.png,chip_243_263,160,32,0.801,alfafa
+teste,outras,outras_chip_376_349_128_064.png,chip_376_349,128,64,0.82,algodao
+teste,outras,outras_chip_238_469_192_032.png,chip_238_469,192,32,0.922,outras culturas
+teste,outras,outras_chip_271_264_160_160.png,chip_271_264,160,160,0.927,sorgo
+teste,outras,outras_chip_254_285_096_000.png,chip_254_285,96,0,0.838,trigo de inverno
+teste,outras,outras_chip_113_043_128_160.png,chip_113_043,128,160,0.733,alfafa
+teste,outras,outras_chip_283_264_064_032.png,chip_283_264,64,32,0.856,algodao
+teste,outras,outras_chip_365_345_032_192.png,chip_365_345,32,192,0.765,outras culturas
+teste,outras,outras_chip_213_300_064_032.png,chip_213_300,64,32,0.855,sorgo
+teste,outras,outras_chip_228_280_032_064.png,chip_228_280,32,64,0.848,trigo de inverno
+teste,outras,outras_chip_061_092_064_192.png,chip_061_092,64,192,0.91,alfafa
+teste,outras,outras_chip_283_264_064_192.png,chip_283_264,64,192,0.822,algodao
+teste,outras,outras_chip_083_210_000_192.png,chip_083_210,0,192,0.77,outras culturas
+teste,outras,outras_chip_420_326_160_160.png,chip_420_326,160,160,0.836,sorgo
+teste,outras,outras_chip_214_319_192_064.png,chip_214_319,192,64,0.712,trigo de inverno
+teste,outras,outras_chip_062_081_192_032.png,chip_062_081,192,32,0.801,alfafa
+teste,outras,outras_chip_420_326_096_160.png,chip_420_326,96,160,0.765,algodao
+teste,outras,outras_chip_234_334_160_032.png,chip_234_334,160,32,0.701,outras culturas
+teste,outras,outras_chip_126_303_128_160.png,chip_126_303,128,160,0.75,sorgo
+teste,outras,outras_chip_270_267_000_192.png,chip_270_267,0,192,0.74,trigo de inverno
+teste,outras,outras_chip_113_043_128_128.png,chip_113_043,128,128,0.884,alfafa
+teste,outras,outras_chip_266_439_000_032.png,chip_266_439,0,32,0.843,algodao
+teste,outras,outras_chip_060_116_192_032.png,chip_060_116,192,32,0.878,outras culturas
+teste,outras,outras_chip_270_267_064_192.png,chip_270_267,64,192,0.767,sorgo
+teste,outras,outras_chip_054_201_096_096.png,chip_054_201,96,96,0.876,trigo de inverno
+teste,outras,outras_chip_062_081_160_032.png,chip_062_081,160,32,0.786,alfafa
+teste,outras,outras_chip_330_513_032_064.png,chip_330_513,32,64,0.744,algodao
+teste,outras,outras_chip_242_332_192_192.png,chip_242_332,192,192,0.706,outras culturas
+teste,outras,outras_chip_243_263_096_160.png,chip_243_263,96,160,0.95,sorgo
+teste,outras,outras_chip_247_333_128_000.png,chip_247_333,128,0,0.873,trigo de inverno
+teste,outras,outras_chip_227_292_032_160.png,chip_227_292,32,160,0.786,alfafa
+teste,outras,outras_chip_321_340_128_032.png,chip_321_340,128,32,0.822,algodao
+teste,outras,outras_chip_216_183_160_064.png,chip_216_183,160,64,0.863,outras culturas
+teste,outras,outras_chip_279_252_096_096.png,chip_279_252,96,96,0.83,sorgo
+teste,outras,outras_chip_254_285_064_096.png,chip_254_285,64,96,0.886,trigo de inverno
+teste,outras,outras_chip_054_201_000_000.png,chip_054_201,0,0,0.734,alfafa
+teste,outras,outras_chip_243_263_128_064.png,chip_243_263,128,64,0.733,algodao
+teste,outras,outras_chip_104_104_064_064.png,chip_104_104,64,64,0.757,outras culturas
+teste,outras,outras_chip_228_280_000_192.png,chip_228_280,0,192,0.84,sorgo
+teste,outras,outras_chip_225_326_160_096.png,chip_225_326,160,96,0.767,trigo de inverno
+teste,outras,outras_chip_046_088_160_032.png,chip_046_088,160,32,0.796,alfafa
+teste,outras,outras_chip_283_264_128_000.png,chip_283_264,128,0,0.907,algodao
+teste,outras,outras_chip_115_502_160_160.png,chip_115_502,160,160,0.827,outras culturas
+teste,outras,outras_chip_279_252_064_160.png,chip_279_252,64,160,0.844,sorgo
+teste,outras,outras_chip_242_332_192_160.png,chip_242_332,192,160,0.75,trigo de inverno
+teste,outras,outras_chip_120_508_032_128.png,chip_120_508,32,128,0.839,alfafa
+teste,outras,outras_chip_232_595_064_160.png,chip_232_595,64,160,0.796,algodao
+teste,outras,outras_chip_126_303_064_192.png,chip_126_303,64,192,0.724,outras culturas
+teste,outras,outras_chip_126_303_000_128.png,chip_126_303,0,128,0.837,sorgo
+teste,outras,outras_chip_246_334_128_192.png,chip_246_334,128,192,0.829,trigo de inverno
+teste,outras,outras_chip_046_088_160_064.png,chip_046_088,160,64,0.873,alfafa
+teste,outras,outras_chip_254_285_000_128.png,chip_254_285,0,128,0.932,algodao
+teste,outras,outras_chip_202_336_192_032.png,chip_202_336,192,32,0.888,outras culturas
+teste,outras,outras_chip_376_349_032_000.png,chip_376_349,32,0,0.897,sorgo
+teste,outras,outras_chip_247_333_128_064.png,chip_247_333,128,64,0.778,trigo de inverno
+teste,outras,outras_chip_046_088_128_032.png,chip_046_088,128,32,0.734,alfafa
+teste,outras,outras_chip_387_325_064_032.png,chip_387_325,64,32,0.822,algodao
+teste,outras,outras_chip_279_252_064_128.png,chip_279_252,64,128,0.862,outras culturas
+teste,outras,outras_chip_126_303_160_000.png,chip_126_303,160,0,0.905,sorgo
+teste,outras,outras_chip_243_263_096_032.png,chip_243_263,96,32,0.715,trigo de inverno
+teste,outras,outras_chip_061_092_032_128.png,chip_061_092,32,128,0.938,alfafa
+teste,outras,outras_chip_321_340_000_192.png,chip_321_340,0,192,0.735,algodao
+teste,outras,outras_chip_239_363_000_096.png,chip_239_363,0,96,0.773,outras culturas
+teste,outras,outras_chip_217_330_064_128.png,chip_217_330,64,128,0.742,sorgo
+teste,outras,outras_chip_241_288_000_096.png,chip_241_288,0,96,0.792,trigo de inverno
+teste,outras,outras_chip_120_508_032_096.png,chip_120_508,32,96,0.76,alfafa
+teste,outras,outras_chip_255_273_064_000.png,chip_255_273,64,0,0.718,algodao
+teste,outras,outras_chip_128_482_000_032.png,chip_128_482,0,32,0.923,outras culturas
+teste,outras,outras_chip_232_279_000_160.png,chip_232_279,0,160,0.834,sorgo
+teste,outras,outras_chip_228_297_192_000.png,chip_228_297,192,0,0.907,trigo de inverno
+teste,outras,outras_chip_054_201_032_032.png,chip_054_201,32,32,0.793,alfafa
+teste,outras,outras_chip_255_273_128_032.png,chip_255_273,128,32,0.729,algodao
+teste,outras,outras_chip_083_210_000_000.png,chip_083_210,0,0,0.939,outras culturas
+teste,outras,outras_chip_228_280_032_096.png,chip_228_280,32,96,0.702,sorgo
+teste,outras,outras_chip_250_271_032_064.png,chip_250_271,32,64,0.843,trigo de inverno
+teste,outras,outras_chip_106_442_192_096.png,chip_106_442,192,96,0.749,alfafa
+teste,outras,outras_chip_283_264_128_160.png,chip_283_264,128,160,0.764,algodao
+teste,outras,outras_chip_104_104_032_000.png,chip_104_104,32,0,0.77,outras culturas
+teste,outras,outras_chip_256_271_032_160.png,chip_256_271,32,160,0.721,sorgo
+teste,outras,outras_chip_224_298_032_000.png,chip_224_298,32,0,0.731,trigo de inverno
+teste,nao_ha,nao_ha_chip_180_407_096_160.png,chip_180_407,96,160,0.831,agua
+teste,nao_ha,nao_ha_chip_122_446_096_192.png,chip_122_446,96,192,0.718,alfafa
+teste,nao_ha,nao_ha_chip_189_360_192_032.png,chip_189_360,192,32,0.996,area umida
+teste,nao_ha,nao_ha_chip_304_528_032_000.png,chip_304_528,32,0,0.995,floresta
+teste,nao_ha,nao_ha_chip_292_455_032_096.png,chip_292_455,32,96,0.729,milho
+teste,nao_ha,nao_ha_chip_237_449_032_000.png,chip_237_449,32,0,0.711,soja
+teste,nao_ha,nao_ha_chip_149_493_128_064.png,chip_149_493,128,64,0.705,trigo de inverno
+teste,nao_ha,nao_ha_chip_179_609_064_128.png,chip_179_609,64,128,0.89,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_159_594_128_160.png,chip_159_594,128,160,0.774,vegetacao natural
+teste,nao_ha,nao_ha_chip_104_318_000_096.png,chip_104_318,0,96,0.911,agua
+teste,nao_ha,nao_ha_chip_262_441_160_096.png,chip_262_441,160,96,0.771,area umida
+teste,nao_ha,nao_ha_chip_159_617_192_096.png,chip_159_617,192,96,0.854,floresta
+teste,nao_ha,nao_ha_chip_182_406_064_064.png,chip_182_406,64,64,0.702,milho
+teste,nao_ha,nao_ha_chip_129_505_032_032.png,chip_129_505,32,32,0.722,soja
+teste,nao_ha,nao_ha_chip_259_331_192_160.png,chip_259_331,192,160,1.0,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_190_428_160_032.png,chip_190_428,160,32,0.99,vegetacao natural
+teste,nao_ha,nao_ha_chip_127_427_160_000.png,chip_127_427,160,0,0.952,agua
+teste,nao_ha,nao_ha_chip_129_505_096_000.png,chip_129_505,96,0,0.804,area umida
+teste,nao_ha,nao_ha_chip_207_438_032_096.png,chip_207_438,32,96,0.731,floresta
+teste,nao_ha,nao_ha_chip_120_555_000_128.png,chip_120_555,0,128,0.722,milho
+teste,nao_ha,nao_ha_chip_140_442_128_160.png,chip_140_442,128,160,0.701,soja
+teste,nao_ha,nao_ha_chip_229_280_160_160.png,chip_229_280,160,160,0.976,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_062_081_128_192.png,chip_062_081,128,192,0.898,vegetacao natural
+teste,nao_ha,nao_ha_chip_088_617_160_000.png,chip_088_617,160,0,0.999,agua
+teste,nao_ha,nao_ha_chip_319_523_192_064.png,chip_319_523,192,64,0.848,area umida
+teste,nao_ha,nao_ha_chip_237_597_064_192.png,chip_237_597,64,192,0.947,floresta
+teste,nao_ha,nao_ha_chip_219_378_128_000.png,chip_219_378,128,0,0.732,soja
+teste,nao_ha,nao_ha_chip_052_043_096_032.png,chip_052_043,96,32,0.982,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_127_396_160_064.png,chip_127_396,160,64,0.736,vegetacao natural
+teste,nao_ha,nao_ha_chip_149_493_032_128.png,chip_149_493,32,128,0.992,agua
+teste,nao_ha,nao_ha_chip_238_590_064_160.png,chip_238_590,64,160,0.727,area umida
+teste,nao_ha,nao_ha_chip_130_479_192_000.png,chip_130_479,192,0,0.78,floresta
+teste,nao_ha,nao_ha_chip_140_442_192_064.png,chip_140_442,192,64,0.861,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_054_201_000_160.png,chip_054_201,0,160,0.874,vegetacao natural
+teste,nao_ha,nao_ha_chip_100_306_000_000.png,chip_100_306,0,0,0.86,agua
+teste,nao_ha,nao_ha_chip_275_475_192_000.png,chip_275_475,192,0,0.835,area umida
+teste,nao_ha,nao_ha_chip_143_480_000_000.png,chip_143_480,0,0,0.739,floresta
+teste,nao_ha,nao_ha_chip_140_442_096_192.png,chip_140_442,96,192,0.981,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_024_087_064_064.png,chip_024_087,64,64,0.996,vegetacao natural
+teste,nao_ha,nao_ha_chip_166_434_064_000.png,chip_166_434,64,0,0.977,agua
+teste,nao_ha,nao_ha_chip_149_478_096_032.png,chip_149_478,96,32,0.898,area umida
+teste,nao_ha,nao_ha_chip_292_455_128_032.png,chip_292_455,128,32,0.976,floresta
+teste,nao_ha,nao_ha_chip_133_474_128_128.png,chip_133_474,128,128,0.809,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_066_060_064_192.png,chip_066_060,64,192,0.797,vegetacao natural
+teste,nao_ha,nao_ha_chip_113_038_096_096.png,chip_113_038,96,96,0.966,agua
+teste,nao_ha,nao_ha_chip_189_360_128_032.png,chip_189_360,128,32,0.979,area umida
+teste,nao_ha,nao_ha_chip_238_469_128_160.png,chip_238_469,128,160,0.78,floresta
+teste,nao_ha,nao_ha_chip_130_479_192_192.png,chip_130_479,192,192,0.914,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_298_453_192_064.png,chip_298_453,192,64,0.94,vegetacao natural
+teste,nao_ha,nao_ha_chip_141_409_192_160.png,chip_141_409,192,160,0.997,agua
+teste,nao_ha,nao_ha_chip_237_597_064_000.png,chip_237_597,64,0,0.884,area umida
+teste,nao_ha,nao_ha_chip_191_492_160_064.png,chip_191_492,160,64,0.7,floresta
+teste,nao_ha,nao_ha_chip_168_386_192_096.png,chip_168_386,192,96,0.8,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_351_330_192_096.png,chip_351_330,192,96,0.982,vegetacao natural
+teste,nao_ha,nao_ha_chip_088_617_032_000.png,chip_088_617,32,0,0.997,agua
+teste,nao_ha,nao_ha_chip_138_363_000_160.png,chip_138_363,0,160,0.982,area umida
+teste,nao_ha,nao_ha_chip_258_444_032_000.png,chip_258_444,32,0,0.862,floresta
+teste,nao_ha,nao_ha_chip_194_400_192_128.png,chip_194_400,192,128,0.9,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_190_428_192_064.png,chip_190_428,192,64,0.99,vegetacao natural
+teste,nao_ha,nao_ha_chip_157_421_000_192.png,chip_157_421,0,192,1.0,agua
+teste,nao_ha,nao_ha_chip_179_609_064_160.png,chip_179_609,64,160,0.744,area umida
+teste,nao_ha,nao_ha_chip_202_425_032_128.png,chip_202_425,32,128,0.783,floresta
+teste,nao_ha,nao_ha_chip_204_480_128_128.png,chip_204_480,128,128,0.822,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_143_411_000_192.png,chip_143_411,0,192,0.771,vegetacao natural
+teste,nao_ha,nao_ha_chip_052_043_096_160.png,chip_052_043,96,160,0.993,agua
+teste,nao_ha,nao_ha_chip_166_434_096_064.png,chip_166_434,96,64,0.97,area umida
+teste,nao_ha,nao_ha_chip_251_583_192_128.png,chip_251_583,192,128,0.948,floresta
+teste,nao_ha,nao_ha_chip_291_553_096_192.png,chip_291_553,96,192,0.919,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_176_506_032_064.png,chip_176_506,32,64,0.703,vegetacao natural
+teste,nao_ha,nao_ha_chip_138_363_096_128.png,chip_138_363,96,128,0.99,agua
+teste,nao_ha,nao_ha_chip_130_471_064_064.png,chip_130_471,64,64,0.707,area umida
+teste,nao_ha,nao_ha_chip_202_419_032_192.png,chip_202_419,32,192,0.901,floresta
+teste,nao_ha,nao_ha_chip_175_515_160_000.png,chip_175_515,160,0,0.998,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_229_280_192_000.png,chip_229_280,192,0,0.728,vegetacao natural
+teste,nao_ha,nao_ha_chip_186_422_160_000.png,chip_186_422,160,0,1.0,agua
+teste,nao_ha,nao_ha_chip_143_488_096_128.png,chip_143_488,96,128,0.791,area umida
+teste,nao_ha,nao_ha_chip_236_335_032_096.png,chip_236_335,32,96,0.737,floresta
+teste,nao_ha,nao_ha_chip_140_442_000_064.png,chip_140_442,0,64,0.978,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_174_400_000_096.png,chip_174_400,0,96,0.81,vegetacao natural
+teste,nao_ha,nao_ha_chip_186_422_160_160.png,chip_186_422,160,160,1.0,agua
+teste,nao_ha,nao_ha_chip_292_455_064_000.png,chip_292_455,64,0,0.759,area umida
+teste,nao_ha,nao_ha_chip_251_583_064_160.png,chip_251_583,64,160,0.768,floresta
+teste,nao_ha,nao_ha_chip_420_326_160_000.png,chip_420_326,160,0,1.0,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_258_270_192_032.png,chip_258_270,192,32,0.713,vegetacao natural
+teste,nao_ha,nao_ha_chip_104_104_192_096.png,chip_104_104,192,96,0.971,agua
+teste,nao_ha,nao_ha_chip_276_403_032_064.png,chip_276_403,32,64,0.911,area umida
+teste,nao_ha,nao_ha_chip_235_584_000_064.png,chip_235_584,0,64,0.79,floresta
+teste,nao_ha,nao_ha_chip_184_503_192_000.png,chip_184_503,192,0,0.98,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_088_617_096_128.png,chip_088_617,96,128,0.966,vegetacao natural
+teste,nao_ha,nao_ha_chip_024_087_000_160.png,chip_024_087,0,160,1.0,agua
+teste,nao_ha,nao_ha_chip_122_504_032_000.png,chip_122_504,32,0,0.812,area umida
+teste,nao_ha,nao_ha_chip_232_333_000_192.png,chip_232_333,0,192,0.918,floresta
+teste,nao_ha,nao_ha_chip_183_407_192_096.png,chip_183_407,192,96,0.795,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_220_431_160_000.png,chip_220_431,160,0,0.771,vegetacao natural
+teste,nao_ha,nao_ha_chip_088_617_000_000.png,chip_088_617,0,0,0.999,agua
+teste,nao_ha,nao_ha_chip_126_446_160_096.png,chip_126_446,160,96,0.799,area umida
+teste,nao_ha,nao_ha_chip_251_448_128_160.png,chip_251_448,128,160,0.811,floresta
+teste,nao_ha,nao_ha_chip_332_332_160_192.png,chip_332_332,160,192,0.989,urbano/solo exposto
+teste,nao_ha,nao_ha_chip_127_502_192_032.png,chip_127_502,192,32,0.716,vegetacao natural
+teste,nao_ha,nao_ha_chip_141_409_128_128.png,chip_141_409,128,128,1.0,agua

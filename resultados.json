@@ -1,0 +1,57 @@
+{
+  "A. Do zero": {
+    "acuracia_teste": 0.605,
+    "acuracia_treino": 0.5633333333333334,
+    "parametros_treinados": 11178564,
+    "tempo_s": 333
+  },
+  "B. Extração de características": {
+    "acuracia_teste": 0.6375,
+    "acuracia_treino": 0.6816666666666666,
+    "parametros_treinados": 2052,
+    "tempo_s": 106
+  },
+  "C. Fine-tuning (layer4)": {
+    "acuracia_teste": 0.6525,
+    "acuracia_treino": 0.98,
+    "parametros_treinados": 8395780,
+    "tempo_s": 134
+  },
+  "matriz_confusao": {
+    "modelo": "C. Fine-tuning (layer4)",
+    "classes": [
+      "milho",
+      "nao_ha",
+      "outras",
+      "soja"
+    ],
+    "matriz": [
+      [
+        62,
+        1,
+        21,
+        16
+      ],
+      [
+        10,
+        84,
+        2,
+        4
+      ],
+      [
+        34,
+        1,
+        54,
+        11
+      ],
+      [
+        28,
+        0,
+        11,
+        61
+      ]
+    ]
+  },
+  "epocas": 12,
+  "dispositivo": "cpu"
+}
