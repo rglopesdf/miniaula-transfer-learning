@@ -23,7 +23,7 @@ Classificar recortes de cerca de 1 km × 1 km em quatro classes (`soja`, `milho`
 | Arquivo | Descrição |
 |---|---|
 | `transfer_learning_lavouras.ipynb` | Notebook da aula, já executado. Roda no Google Colab sem configuração. |
-| `slides/slides_transfer_learning_lavouras.pptx` | Slides da miniaula em PowerPoint (as animações aparecem como imagens estáticas). |
+| `slides/slides_transfer_learning_lavouras.pptx` | Slides da miniaula em PowerPoint, com fundos em vídeo e animações nativas. |
 | `resultados.json` | Resultados da execução registrada no notebook. |
 | `dados/` | 1.000 imagens PNG de 32×32 pixels: 600 de treino e 400 de teste, 4 classes equilibradas. |
 | `dados_cor_real/` | Os mesmos 1.000 recortes em cor real (vermelho, verde e azul visíveis), para comparação. |
